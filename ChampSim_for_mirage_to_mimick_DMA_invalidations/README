@@ -1,0 +1,4 @@
+This directory contains the code that is used to mimick I/O access and invalidations. A new ChampSim tracer code is written for this as a new field is added in the instruction format to signify when to start counting the number of instructions and cycles and when to stop.
+
+1. To look for added code of IO_invalidations program, use the tag. //@IO_INVALIDATIONS
+2. Use trigger_invalidation_program.sh to run the experiments.
