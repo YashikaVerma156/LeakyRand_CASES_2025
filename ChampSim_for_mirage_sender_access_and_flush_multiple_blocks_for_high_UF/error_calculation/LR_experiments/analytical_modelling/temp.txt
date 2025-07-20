@@ -1,0 +1,1 @@
+Error count: 0, error rate per bit: 0.000000

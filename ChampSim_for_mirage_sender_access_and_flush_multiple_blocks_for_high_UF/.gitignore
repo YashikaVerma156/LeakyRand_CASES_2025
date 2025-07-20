@@ -1,0 +1,13 @@
+obj/src/*.o
+bin/bimodal-no-no-random-2core
+error_calculation/LR_experiments/occupancy_*.txt
+error_calculation/LR_experiments/binary/
+error_calculation/LR_experiments/sender_err_corr_both_algo_sender_access_and_flush_multiple_blocks/
+error_calculation/LR_experiments/single_core_results/
+error_calculation/LR_experiments/pin_traces/
+error_calculation/LR_experiments/results/
+error_calculation/LR_experiments/LR_ERR_CORR_2core_results_both_algo*/
+error_calculation/LR_experiments/results_analysis_scripts/*.txt
+error_calculation/LR_experiments/results_analysis_scripts/*.csv
+error_calculation/LR_experiments/results_analysis_scripts/extracted_results/*.txt
+error_calculation/LR_experiments/results_analysis_scripts/extracted_results/*.csv
