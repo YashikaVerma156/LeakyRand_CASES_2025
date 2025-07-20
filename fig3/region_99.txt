@@ -1,0 +1,6 @@
+#array_size  avg_occupancy  min_occupancy  max_occupancy
+1 63 63 63
+2 86 86 86
+3 95 94 95
+4 98 98 98
+5 99 99 99

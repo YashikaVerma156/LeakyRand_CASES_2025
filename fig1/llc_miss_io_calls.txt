@@ -1,0 +1,6 @@
+#Arr_size Arr_size_in_MB compute_iter_2 compute_iter_4 compute_iter_6 compute_iter_8
+0.125 0.25MB 1.07 1.07 1.07 1.07
+0.25 0.5MB 1.13 1.15 1.15 1.15
+0.5 1MB 1.28 1.38 1.39 1.39
+0.75 1.5MB 1.42 1.72 1.81 1.83
+1 2MB 1.54 2.16 2.54 2.81

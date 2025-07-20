@@ -1,0 +1,25 @@
+This directory holds scripts and results for clear cache experiments. These experiments are done to identify cache region in the beginning of the covert channel. 
+
+The list of experiments and their respective bash scripts are as follows.
+1. Repeat the whole array (which is incremented by a fraction controlled by variable inc_counter) a certain times to identify the LLC occupied : clear_cache_script.sh
+2. Repeat 1x 6 times and then follow any of the below strategy
+   a) Access extra fraction of array and repeat just that : clear_cache_script_mix_1x_and_a_percentage_of_array.sh
+   b) Increase extra array fraction and repeat whole array till >=99% of LLC is occupied : clear_cache_script_mix_1x_and_a_percentage_of_array_repeat_whole.sh
+3. Multile core script for 2.a :
+   1) clear_cache_master_script_mix_1x_and_a_percentage_of_array_run_multiple_program.sh.
+   2) clear_cache_slave_script_mix_1x_and_a_percentage_of_array_run_multiple_program.sh
+4. Mainak sir had provided some extra experiments(to calculate the number of misses during access phase). The scripts corresponding to these experiments are:
+   a) To run the experiment: Mainak_sir_clear_cache_script.sh
+   b) Region identification text files are stored in the respective folders, path : /home/yashikav/Desktop/Mirage_project/ChampSim_for_mirage_forward_fill_early_with_error_correction_with_LLC_occupancy_mediator/clear_cache_in_the_beginning/clear_cache_result_files
+   Names similar to: Mainak_sir_clear_cache_stats_1.8_3_1.txt
+   c) To generate the result for number of misses during the access phase, do like this : python3 Mainak_sir_collect_data.py result_random_1_champsim.trace_clear_cache_1.8.gz.txt
+5. Script for dynamic algorithm experiments, you will have to edit the program in pin directory and accordingly provide the array size to this script: verifying_dynamic_algo_region_identification_results.sh
+   Takeout the data about the occupancy and access cycles manually from the ChampSim result file.
+   ChampSim RESULTS ADDED IN THE PAPER FOR DYNAMIC ALGORITHM GENERATED SEQUENCES: /home/yashikav/Desktop/Mirage_project/ChampSim_for_mirage_forward_fill_early_with_error_correction_with_LLC_occupancy_mediator/clear_cache_in_the_beginning/dynamic_algo_result
+
+
+####### Folder for results used in ISCA submission #######
+Earlier results were updated because 1) the LLC latency was increased by 4 cycles to account for Mirage design, 2) Flush instruction retirement is delayed till the flush is actually done.
+path: /home/yashikav/Desktop/Mirage_project/ChampSim_for_mirage_forward_fill_early_with_error_correction_with_LLC_occupancy_mediator/clear_cache_in_the_beginning/clear_cache_result_files_updated
+Script used for these is: clear_cache_script.sh
+
