@@ -1,0 +1,3 @@
+sudo ./start_linux_lr_benchmark_test_suite_ds_4500_buffer_500_512_strlen.sh
+sudo ./start_linux_lr_benchmark_test_suite_ds_3000_buffer_100_512_strlen.sh
+sudo ./start_linux_lr_benchmark_test_suite_ds_3000_buffer_1000_512_strlen.sh
