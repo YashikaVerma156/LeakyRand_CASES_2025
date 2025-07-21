@@ -77,29 +77,29 @@ Run all the commands below with root privileges:
 sudo su
 ```
 
-To collect data for finding threshold run the following commands: 
+1. To collect data for finding threshold run the following commands: 
 ```bash
 gcc -O3 -static data_collect.c -o data_collect
 ./data_collect
 ```
-To calculate the threshold from the collected data run the following commands:
+2. To calculate the threshold from the collected data run the following commands:
 ```bash
 g++ -O3 -static find_thresh.cpp -o find_thresh
 ./find_thresh
 ```
-To verify the threshold, change the `THRESHOLD` macro in `check_thresh.cpp`. Then run the following commands:
+3. To verify the threshold, change the `THRESHOLD` macro in `check_thresh.cpp`. Then run the following commands:
 ```bash
 g++ -O3 -static check_thresh.cpp -o check_thresh
 ./check_thresh
 ```
 
-To launch the Multi-threaded version of the channel, set all the macros in `covertTux_multiThreaded.c`. Then run the follwing commands:
+4.a. To launch the Multi-threaded version of the channel, set all the macros in `covertTux_multiThreaded.c`, and change the `THRESHOLD` macro as per the observation in steps 2 & 3. Then run the follwing commands:
 ```bash
 gcc -O3 -static -pthread covertTux_multiThreaded.c -o coverTux_multiThreaded -lm
 ./coverTux_multiThreaded
 ```
 
-To launch the Multi-process version of the channel, set all the macros in `covertTux_multiProcess.c`. Then run the following commmands:
+4.b. To launch the Multi-process version of the channel, set all the macros in `covertTux_multiProcess.c`, and change the `THRESHOLD` macro as per the observation in steps 2 & 3. Then run the following commmands:
 ```bash
 gcc -O3 -static covertTux_multiProcess.c -o coverTux_multiProcess -lm
 ./covertTux_multiProcess
