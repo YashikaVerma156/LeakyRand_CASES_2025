@@ -1,5 +1,6 @@
 # CovertTux
 ## Introduction
+The implementation of LeakyRand on an Intel Xeon Processor is named as CovertTux.
 CovertTux is a cache replacement policy oblivious timing based covert channel on a Linux System. Our covert channel implemented on a set of the 16 MB 16-way set associative LLC of an Intel E-2278G Xeon processor clocked nominally at 3.4 GHz running ubuntu 18.04 achieves a communication bandwidth varying between 30 Kbps and 570 Kbps depending on different parameter settings, while maintaining a bit error rate ranging from 8.7 × 10<sup>−4</sup> to 4.5 × 10<sup>−2</sup>, averaging around 3.3 ×10<sup>−3</sup>.
 
 ## Description of files
@@ -11,8 +12,6 @@ CovertTux is a cache replacement policy oblivious timing based covert channel on
 - **`cpuid_leaf2.c`** & **`decode_leaf2.c`**: Prints information about all the caches and TLBs in the system.
 - **`cpuid_leaf4.c`** : Prints information about all the cache levels in the cache hierarchy.
 
-Please refer to **`Presentation.pdf`** for a brief overview of the project. <br>
-Please refer to **`Report.pdf`** for working of all the codes, implementation details and results.
 
 __Note:__ The multi-threaded verison reports bancdwidth and BER for a particular pair of disturbance set size and unrolling factor which can be set using macros in `covertTux_multiThreaded.c`. The multi-process version reports the bandwidth and BER for multiple pairs of disturbance set size and unrolling factor defined using the global arrays `ds_vals` and `uf_vals` respectively in `covertTux_multiProcess.c`.
 
