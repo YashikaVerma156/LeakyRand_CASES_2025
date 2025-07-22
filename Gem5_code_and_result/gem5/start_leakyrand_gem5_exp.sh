@@ -3,7 +3,7 @@
 # Check if exactly one argument is passed
 if [ "$#" -ne 1 ]; then
     echo "Usage: $0 <total_experiments_per_configuration>"
-    echo "total_experiments_per_configuration should 100"
+    echo "total_experiments_per_configuration should be 100"
     exit 1
 fi
 

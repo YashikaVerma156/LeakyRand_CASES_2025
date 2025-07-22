@@ -15,8 +15,8 @@
 - Use sudo ./start\_leakyrand\_gem5\_exp.sh ${total\_experiments} to run the simulations.
 
 ## Results Generation
--
--
+- cd result\_generation\_scripts
+- ./script.sh
 
 ## How to access compiled program binaries (not necessary for above steps).
 - ./mount\_image.sh
