@@ -146,7 +146,7 @@ command = (
         + "ls /sys/bus/cpu/devices;\n" \
         # + "echo 'This is running on Timing CPU cores.';\n" \
         + "sleep 10;\n"\
-        + f"./dynamic_lr_end2end_test_suite_ds_4500_buffer_500_512_strlen {str_num} ;\n" \
+        + f"./dynamic_lr_end2end_test_suite_ds_1500_buffer_500_512_strlen {str_num} ;\n" \
         #+ "./fill_and_probe;\n" \
         + "m5 exit;"
         )
