@@ -12,3 +12,7 @@
 ## Results Generation
 -
 -
+## How to access compiled program binaries (not necessary for above steps).
+- ./mount\_image.sh
+- sudo su
+- cd tmpmount/home/gem5
