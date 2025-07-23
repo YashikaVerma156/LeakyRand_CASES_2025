@@ -11,4 +11,4 @@ sudo docker run -it cases:leakyrand /bin/bash </br>
 cd home/yashikav/Desktop/Mirage_project  </br>
 git clone https://github.com/YashikaVerma156/LeakyRand_CASES_2025.git  </br>
 4. To overcome the path dependencies in the ChampSim code, run the below command </br>
-cp -r LeakyRand_CASES_2025/ChampSim_code_and_result/* .
+cp -r LeakyRand_CASES_2025/ChampSim_code_and_result/*  .
