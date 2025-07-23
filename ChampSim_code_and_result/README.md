@@ -5,7 +5,7 @@ b) Import .tar file as docker image: </br>
 docker import leakyrand_image.tar cases:leakyrand  </br>
 c) Check the added image: </br> 
 sudo docker images  </br>
-d) RUn the container  </br> 
+d) Run the container  </br> 
 sudo docker run -it cases:leakyrand /bin/bash </br>
 3. Download code inside container  </br>
 cd home/yashikav/Desktop/Mirage_project  </br>
