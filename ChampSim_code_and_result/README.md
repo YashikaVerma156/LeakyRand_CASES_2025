@@ -17,4 +17,4 @@ cp -r LeakyRand_CASES_2025/ChampSim_code_and_result/*  . </br>
 ## Running simulations and generating respective plots
 1. Refer to directories, for that particular figure in the paper, for example, fig11/ contains scripts to run simulations and generate plot for figure 11 in the paper. </br>
 2. To run the simulation and generate plot, run ./script.sh in each fig*/  </br>
-3. Refer to fig*/readme.txt for instructions.
+3. Refer to fig*/README.txt for instructions.
