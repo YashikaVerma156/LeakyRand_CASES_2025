@@ -2,5 +2,6 @@
 2. Our result to generate fig11 plot is in our_data.txt
 3. Time estimation: 20 mins approx. 
 4. Storage estimation: 5 GB approx.
-5. Use ./script.sh to begin the simulations.
+5. Use ./script.sh to begin the simulations and generate the figure.
 6. A little fluctuation in FC(Fill cycle) and PC(Probe cycle) is expected on changing the random seed.
+7. Refer to fig11.pdf as the generated figure.
