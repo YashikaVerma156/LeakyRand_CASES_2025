@@ -8,4 +8,5 @@ sudo docker images  </br>
 d) RUn the container  </br> 
 sudo docker run -it cases:leakyrand /bin/bash </br>
 3. Download code inside container  </br>
-git clone 
+cd home/yashikav/Desktop/Mirage_project  </br>
+git clone https://github.com/YashikaVerma156/LeakyRand_CASES_2025.git  </br>
