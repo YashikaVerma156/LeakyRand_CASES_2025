@@ -19,20 +19,20 @@ fi
 
 
 
-				#echo "arr_sizes: ${arr_sizes}"
-				arr_size_multiples=${arr_sizes}  #$1
-				built_binary_once=0
+	#echo "arr_sizes: ${arr_sizes}"
+	arr_size_multiples=${arr_sizes}  #$1
+	built_binary_once=0
         num_iterations=${arr_num_itr}
         num_iterations_mid1=${arr_num_itr_mid_1}
         num_iterations_mid2=${arr_num_itr_mid_2}
         rand_seed_iterations_max=1
-				dynamic_algo_itr=$(( ${arr_num_itr} + ${arr_num_itr_mid_1} + ${arr_num_itr_mid_2} ))
-				echo "${dynamic_algo_itr}"
+	dynamic_algo_itr=$(( ${arr_num_itr} + ${arr_num_itr_mid_1} + ${arr_num_itr_mid_2} ))
+	echo "${dynamic_algo_itr}"
         path=/home/yashikav/Desktop/Mirage_project/ChampSim_for_mirage_forward_fill_early_with_error_correction_with_LLC_occupancy_mediator/clear_cache_in_the_beginning
 
         cd ../../pin-3.21-98484-ge7cd811fd-gcc-linux/source/tools/ManualExamples/clear_cache_code 
         ./commands_receiver_LR_clear_cache_dynamic_strategy_three_array_sizes.sh ${arr_size_multiples} ${num_iterations_mid1} ${num_iterations_mid2} ${num_iterations} ${path} ${mid_number1} ${mid_number2}
-        sim=`grep -nr "Count_instr:" clear_cache.txt | awk '{ print $3 }'`
+        sim=`grep -nr "Count_instr:" clear_cache.txt | awk '{ print $4 }'`
 
         cat clear_cache.txt
 
@@ -49,8 +49,8 @@ fi
         total_cycle=()
         access_cycle=()
         probe_cycle=()
-        rand_seed=$((RANDOM % 100000 + 1))
-        #rand_seed=20911
+        #rand_seed=$((RANDOM % 100000 + 1))
+        rand_seed=17768
         echo "rand_seed : ${rand_seed}"
 
         i=0
@@ -69,6 +69,7 @@ fi
 
         ./run_1core.sh ${sim} ${trace} 0 ${rand_seed} 0 0 0 0
         grep -nri "dyn_algo" ${result_file}
+        grep -nri "dyn_algo" ${result_file} | awk '{ print $9 }' > simulated_occ.txt
 
        # XXX The following lines of code has not been put into use. Calculate the total cycles = fill_cycles + probe_cycles manually from the result file after subtracting the cycles spent in filling the LLC in the beginning. 
         val=`grep -nri "Calculat" ${result_file} | head -1 | awk '{print $8 }'`
@@ -85,5 +86,6 @@ fi
         echo "Total cycles spent in simulation: $tot_cycle"
         echo "Cycles spent in initial filling of empty cache: $LLC_filling_cycle"
         echo "Cycles spent including Fill and Probe step, excluding initial cache fill in the beginning: $total_cycle"
+        echo "$total_cycle" > temp.txt
 
 

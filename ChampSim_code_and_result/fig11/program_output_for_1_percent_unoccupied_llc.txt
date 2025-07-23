@@ -1,0 +1,125 @@
+Warning: size: 0 can not fill probe time for the target occupancy, using last probe time
+Solution: Remaining budget 21229
+size 0 rem_budget 3693224 inc_ptime 3186414 inc_atime 524416 occ 20725
+size 0 rem_budget 3388296 inc_ptime 0 inc_atime 304928 occ 25795
+size 0 rem_budget 3153485 inc_ptime 0 inc_atime 234811 occ 27849
+size 1 rem_budget 2272444 inc_ptime 609613 inc_atime 271428 occ 29604
+size 2 rem_budget 1437832 inc_ptime 521572 inc_atime 313040 occ 30886
+size 2 rem_budget 1144720 inc_ptime 0 inc_atime 293112 occ 31554
+size 2 rem_budget 855909 inc_ptime 0 inc_atime 288811 occ 32009
+size 2 rem_budget 575056 inc_ptime 0 inc_atime 280853 occ 32266
+size 2 rem_budget 298971 inc_ptime 0 inc_atime 276085 occ 32438
+size 2 rem_budget 21229 inc_ptime 0 inc_atime 277742 occ 32552
+Solution: Remaining budget 28769
+size 0 rem_budget 3693224 inc_ptime 3186414 inc_atime 524416 occ 20725
+size 0 rem_budget 3388296 inc_ptime 0 inc_atime 304928 occ 25795
+size 1 rem_budget 2481300 inc_ptime 609613 inc_atime 297383 occ 28691
+size 1 rem_budget 2217823 inc_ptime 0 inc_atime 263477 occ 30020
+size 1 rem_budget 1968823 inc_ptime 0 inc_atime 249000 occ 30814
+size 2 rem_budget 1153034 inc_ptime 521572 inc_atime 294217 occ 31513
+size 2 rem_budget 864228 inc_ptime 0 inc_atime 288806 occ 31977
+size 2 rem_budget 582510 inc_ptime 0 inc_atime 281718 occ 32252
+size 2 rem_budget 306274 inc_ptime 0 inc_atime 276236 occ 32426
+size 2 rem_budget 28769 inc_ptime 0 inc_atime 277505 occ 32545
+Solution: Remaining budget 151275
+size 0 rem_budget 3693224 inc_ptime 3186414 inc_atime 524416 occ 20725
+size 0 rem_budget 3388296 inc_ptime 0 inc_atime 304928 occ 25795
+size 2 rem_budget 1889404 inc_ptime 1131185 inc_atime 367707 occ 29300
+size 2 rem_budget 1571568 inc_ptime 0 inc_atime 317836 occ 30743
+size 2 rem_budget 1276262 inc_ptime 0 inc_atime 295306 occ 31473
+size 2 rem_budget 987459 inc_ptime 0 inc_atime 288803 occ 31947
+size 2 rem_budget 704929 inc_ptime 0 inc_atime 282530 occ 32238
+size 2 rem_budget 428543 inc_ptime 0 inc_atime 276386 occ 32414
+size 2 rem_budget 151275 inc_ptime 0 inc_atime 277268 occ 32538
+Solution: Remaining budget 43434
+size 0 rem_budget 3693224 inc_ptime 3186414 inc_atime 524416 occ 20725
+size 1 rem_budget 2716965 inc_ptime 609613 inc_atime 366646 occ 26790
+size 1 rem_budget 2434154 inc_ptime 0 inc_atime 282811 occ 29102
+size 1 rem_budget 2174558 inc_ptime 0 inc_atime 259596 occ 30223
+size 1 rem_budget 1927958 inc_ptime 0 inc_atime 246600 occ 30949
+size 1 rem_budget 1691011 inc_ptime 0 inc_atime 236947 occ 31419
+size 2 rem_budget 880642 inc_ptime 521572 inc_atime 288797 occ 31905
+size 2 rem_budget 596977 inc_ptime 0 inc_atime 283665 occ 32219
+size 2 rem_budget 320386 inc_ptime 0 inc_atime 276591 occ 32398
+size 2 rem_budget 43434 inc_ptime 0 inc_atime 276952 occ 32529
+Solution: Remaining budget 168930
+size 0 rem_budget 3693224 inc_ptime 3186414 inc_atime 524416 occ 20725
+size 1 rem_budget 2716965 inc_ptime 609613 inc_atime 366646 occ 26790
+size 1 rem_budget 2434154 inc_ptime 0 inc_atime 282811 occ 29102
+size 2 rem_budget 1591623 inc_ptime 521572 inc_atime 320959 occ 30650
+size 2 rem_budget 1294890 inc_ptime 0 inc_atime 296733 occ 31421
+size 2 rem_budget 1006093 inc_ptime 0 inc_atime 288797 occ 31907
+size 2 rem_budget 722482 inc_ptime 0 inc_atime 283611 occ 32220
+size 2 rem_budget 445901 inc_ptime 0 inc_atime 276581 occ 32399
+size 2 rem_budget 168930 inc_ptime 0 inc_atime 276971 occ 32530
+Solution: Remaining budget 113611
+size 0 rem_budget 3693224 inc_ptime 3186414 inc_atime 524416 occ 20725
+size 1 rem_budget 2716965 inc_ptime 609613 inc_atime 366646 occ 26790
+size 2 rem_budget 1841094 inc_ptime 521572 inc_atime 354299 occ 29681
+size 2 rem_budget 1529268 inc_ptime 0 inc_atime 311826 occ 30923
+size 2 rem_budget 1236723 inc_ptime 0 inc_atime 292545 occ 31575
+size 2 rem_budget 947910 inc_ptime 0 inc_atime 288813 occ 32025
+size 2 rem_budget 667490 inc_ptime 0 inc_atime 280420 occ 32274
+size 2 rem_budget 391491 inc_ptime 0 inc_atime 275999 occ 32445
+size 2 rem_budget 113611 inc_ptime 0 inc_atime 277880 occ 32556
+Solution: Remaining budget 73120
+size 0 rem_budget 3693224 inc_ptime 3186414 inc_atime 524416 occ 20725
+size 2 rem_budget 2133805 inc_ptime 1131185 inc_atime 428234 occ 27665
+size 2 rem_budget 1791297 inc_ptime 0 inc_atime 342508 occ 30016
+size 2 rem_budget 1484756 inc_ptime 0 inc_atime 306541 occ 31080
+size 2 rem_budget 1194621 inc_ptime 0 inc_atime 290135 occ 31663
+size 2 rem_budget 905799 inc_ptime 0 inc_atime 288822 occ 32092
+size 2 rem_budget 627189 inc_ptime 0 inc_atime 278610 occ 32304
+size 2 rem_budget 351513 inc_ptime 0 inc_atime 275676 occ 32471
+size 2 rem_budget 73120 inc_ptime 0 inc_atime 278393 occ 32570
+Solution: Remaining budget 8578
+size 1 rem_budget 3030947 inc_ptime 3796027 inc_atime 577080 occ 21835
+size 1 rem_budget 2675571 inc_ptime 0 inc_atime 355376 occ 27056
+size 1 rem_budget 2396654 inc_ptime 0 inc_atime 278917 occ 29212
+size 1 rem_budget 2138096 inc_ptime 0 inc_atime 258558 occ 30278
+size 1 rem_budget 1892146 inc_ptime 0 inc_atime 245950 occ 30986
+size 1 rem_budget 1655695 inc_ptime 0 inc_atime 236451 occ 31443
+size 2 rem_budget 845324 inc_ptime 521572 inc_atime 288799 occ 31924
+size 2 rem_budget 562173 inc_ptime 0 inc_atime 283151 occ 32227
+size 2 rem_budget 285668 inc_ptime 0 inc_atime 276505 occ 32405
+size 2 rem_budget 8578 inc_ptime 0 inc_atime 277090 occ 32533
+Solution: Remaining budget 134504
+size 1 rem_budget 3030947 inc_ptime 3796027 inc_atime 577080 occ 21835
+size 1 rem_budget 2675571 inc_ptime 0 inc_atime 355376 occ 27056
+size 1 rem_budget 2396654 inc_ptime 0 inc_atime 278917 occ 29212
+size 2 rem_budget 1555857 inc_ptime 521572 inc_atime 319225 occ 30702
+size 2 rem_budget 1259921 inc_ptime 0 inc_atime 295936 occ 31450
+size 2 rem_budget 971121 inc_ptime 0 inc_atime 288800 occ 31929
+size 2 rem_budget 688105 inc_ptime 0 inc_atime 283016 occ 32230
+size 2 rem_budget 411633 inc_ptime 0 inc_atime 276472 occ 32407
+size 2 rem_budget 134504 inc_ptime 0 inc_atime 277129 occ 32534
+Solution: Remaining budget 78651
+size 1 rem_budget 3030947 inc_ptime 3796027 inc_atime 577080 occ 21835
+size 1 rem_budget 2675571 inc_ptime 0 inc_atime 355376 occ 27056
+size 2 rem_budget 1803285 inc_ptime 521572 inc_atime 350714 occ 29783
+size 2 rem_budget 1493068 inc_ptime 0 inc_atime 310217 occ 30971
+size 2 rem_budget 1201260 inc_ptime 0 inc_atime 291808 occ 31602
+size 2 rem_budget 912444 inc_ptime 0 inc_atime 288816 occ 32046
+size 2 rem_budget 632591 inc_ptime 0 inc_atime 279853 occ 32283
+size 2 rem_budget 356689 inc_ptime 0 inc_atime 275902 occ 32453
+size 2 rem_budget 78651 inc_ptime 0 inc_atime 278038 occ 32560
+Solution: Remaining budget 37557
+size 1 rem_budget 3030947 inc_ptime 3796027 inc_atime 577080 occ 21835
+size 2 rem_budget 2091917 inc_ptime 521572 inc_atime 417458 occ 27926
+size 2 rem_budget 1752927 inc_ptime 0 inc_atime 338990 occ 30116
+size 2 rem_budget 1447962 inc_ptime 0 inc_atime 304965 occ 31128
+size 2 rem_budget 1158563 inc_ptime 0 inc_atime 289399 occ 31690
+size 2 rem_budget 869738 inc_ptime 0 inc_atime 288825 occ 32113
+size 2 rem_budget 591696 inc_ptime 0 inc_atime 278042 occ 32314
+size 2 rem_budget 316128 inc_ptime 0 inc_atime 275568 occ 32480
+size 2 rem_budget 37557 inc_ptime 0 inc_atime 278571 occ 32575
+Solution: Remaining budget 0
+size 2 rem_budget 2457019 inc_ptime 4317599 inc_atime 629436 occ 22794
+size 2 rem_budget 2048870 inc_ptime 0 inc_atime 408149 occ 28152
+size 2 rem_budget 1712924 inc_ptime 0 inc_atime 335946 occ 30203
+size 2 rem_budget 1409331 inc_ptime 0 inc_atime 303593 occ 31169
+size 2 rem_budget 1120560 inc_ptime 0 inc_atime 288771 occ 31714
+size 2 rem_budget 831731 inc_ptime 0 inc_atime 288829 occ 32132
+size 2 rem_budget 554202 inc_ptime 0 inc_atime 277529 occ 32323
+size 2 rem_budget 278730 inc_ptime 0 inc_atime 275472 occ 32488
+size 2 rem_budget 0 inc_ptime 0 inc_atime 278730 occ 32580
