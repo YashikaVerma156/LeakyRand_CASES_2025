@@ -17,7 +17,7 @@ __Note:__ The multi-threaded verison reports bancdwidth and BER for a particular
 
 ## System Requirements
 - The Last Level Cache (LLC) must be inclusive.
-- Atleast two cores must be present.
+- 16-core machine, with sibling cpus switched off. Only 1 core per socker is on-line.
 - LLC must be shared between the two cores.
 
 To find the number of cores:
