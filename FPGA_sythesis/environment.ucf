@@ -1,0 +1,90 @@
+
+
+NET "lcd[0]" LOC = L18;
+NET "lcd[1]" LOC = L17;
+NET "lcd[2]" LOC = M18;
+NET "lcd[3]" LOC = R15;
+NET "lcd[4]" LOC = R16;
+NET "lcd[5]" LOC = P17;
+NET "lcd[6]" LOC = M15;
+
+
+NET "lcd[6]" IOSTANDARD = LVCMOS33;
+NET "lcd[5]" IOSTANDARD = LVCMOS33;
+NET "lcd[4]" IOSTANDARD = LVCMOS33;
+NET "lcd[3]" IOSTANDARD = LVCMOS33;
+NET "lcd[2]" IOSTANDARD = LVCMOS33;
+NET "lcd[1]" IOSTANDARD = LVCMOS33;
+NET "lcd[0]" IOSTANDARD = LVCMOS33;
+NET "lcd[6]" DRIVE = 4;
+NET "lcd[5]" DRIVE = 4;
+NET "lcd[4]" DRIVE = 4;
+NET "lcd[3]" DRIVE = 4;
+NET "lcd[2]" DRIVE = 4;
+NET "lcd[1]" DRIVE = 4;
+NET "lcd[0]" DRIVE = 4;
+
+
+NET "led[7]" LOC = F9;
+NET "led[6]" LOC = E9;
+NET "led[5]" LOC = D11;
+NET "led[4]" LOC = C11;
+NET "led[3]" LOC = F11;
+NET "led[2]" LOC = E11;
+NET "led[1]" LOC = E12;
+NET "led[0]" LOC = F12;
+
+
+NET "led[7]" IOSTANDARD = LVTTL;
+NET "led[6]" IOSTANDARD = LVTTL;
+NET "led[5]" IOSTANDARD = LVTTL;
+NET "led[4]" IOSTANDARD = LVTTL;
+NET "led[3]" IOSTANDARD = LVTTL;
+NET "led[2]" IOSTANDARD = LVTTL;
+NET "led[1]" IOSTANDARD = LVTTL;
+NET "led[0]" IOSTANDARD = LVTTL;
+NET "led[7]" DRIVE = 8;
+NET "led[6]" DRIVE = 8;
+NET "led[5]" DRIVE = 8;
+NET "led[4]" DRIVE = 8;
+NET "led[3]" DRIVE = 8;
+NET "led[2]" DRIVE = 8;
+NET "led[1]" DRIVE = 8;
+NET "led[0]" DRIVE = 8;
+
+
+NET "Y[3]" LOC = N17;
+NET "Y[2]" LOC = H18;
+NET "Y[1]" LOC = L14;
+NET "Y[0]" LOC = L13;
+
+
+NET "Y[3]" IOSTANDARD = LVTTL;
+NET "Y[2]" IOSTANDARD = LVTTL;
+NET "Y[1]" IOSTANDARD = LVTTL;
+NET "Y[0]" IOSTANDARD = LVTTL;
+NET "Y[3]" PULLUP;
+NET "Y[2]" PULLUP;
+NET "Y[1]" PULLUP;
+NET "Y[0]" PULLUP;
+
+
+NET "clk" LOC = C9;
+
+
+NET "clk" IOSTANDARD = LVCMOS33;
+
+
+NET "PB1" LOC = K17;
+NET "rot_a" LOC = K18;
+NET "rot_b" LOC = G18;
+
+
+NET "PB1" IOSTANDARD = LVTTL;
+NET "rot_a" IOSTANDARD = LVTTL;
+NET "rot_b" IOSTANDARD = LVTTL;
+NET "PB1" PULLDOWN;
+NET "rot_a" PULLUP;
+NET "rot_b" PULLUP;
+
+NET "PB1" CLOCK_DEDICATED_ROUTE = FALSE;
