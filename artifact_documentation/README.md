@@ -1,6 +1,6 @@
 ## Documenting the artifact:
 
-This directory contains the relevant files as mentioned under heading "Documenting the Artifact" at link https://esweek.org/call-for-artifacts-cases/ </br>
+This directory contains the relevant information as mentioned under heading "Documenting the Artifact" at link https://esweek.org/call-for-artifacts-cases/ </br>
 - LeakyRand evaluation consists of the following four code </br>
 1. Micro-architectural simulator ChampSim. </br>
 -- Download docker images leakyrand_image.tar from Zenodo link https://doi.org/10.5281/zenodo.16237834 </br>
