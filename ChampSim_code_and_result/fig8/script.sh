@@ -1,8 +1,3 @@
-
-#To Regenarte files in extracted_results folder use the following command after the experiments for fig4a are complete.
-# python3 data_extraction.py 0
-# python3 data_extraction.py 1
-
 #Generate data for gnuplots.
 python3 cdf_latest_hpca.py 0
 python3 cdf_latest_hpca.py 1
