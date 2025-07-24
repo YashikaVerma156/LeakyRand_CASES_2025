@@ -34,5 +34,6 @@ For a brief overview of the project please refer to **`./docs/Presentation.pdf`*
 For detailed documentation of the project, obseevations and results, please refer to the report : **`./docs/Report.pdf`**.
 
 ## Evaluation
-- Input format is explained in section5 and figure 5.2.
+- Input format is explained in section5 and figure 5.2 of docs/Report.pdf.
 - Three types of input strings(length 1024) are used, (a) all 1s, (b) 1011 repeated 256 times, (c) 0010 repeated 256 times
+- The results in the paper are mentioned in section 5.10.1 under the heading "FPGA Synthesis of LeakyRand:".
