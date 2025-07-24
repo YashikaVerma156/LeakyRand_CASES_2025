@@ -1,2 +1,5 @@
-Software: Docker, Python3, GCC 10 or above, scons, Xilinx ISE 14.7 software
-Hardware: Intel Xeon Processor, Open Xilinx ISE 14.7
+-- For mounting the LeakyRand attack on Intel Xeon server, the 16 MB 16-way set associative inclusive LLC of an Intel E-2278G Xeon processor, 
+clocked nominally at 3.4 GHz running ubuntu 18.04, is used. 
+-- For ChampSim and Gem5 simulations, we use Intel Xeon x86-64 processors with 64 cores, 
+100GB RAM and 2.5TB disk space running Linux Ubuntu 20.04.5 LTS having support to run Docker containers. Python3, GCC 10 or above, scons, Docker. 
+-- For FPGA synthesis, we use the Xilinx Spartan-3E starter board, the Xilinx ISE 14.7 toolchain, connecting cables, and cable driver.
