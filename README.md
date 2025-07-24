@@ -13,5 +13,5 @@ The Ubuntu disk image with pre-compiled program binaries is available on Zenodo 
 ## Intel Xeon:
 Refer to README and code in Intel\_Xeon\_code\_and\_result/
 
-##FPGA board:
+## FPGA board:
 Refer to README and code in FPGA\_synthesis
