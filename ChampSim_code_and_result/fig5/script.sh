@@ -17,7 +17,7 @@ str_num=500  #1 #500
 ./start_fig5.sh 326 $num_prl $str_num
 
 cd /home/yashikav/Desktop/Mirage_project/fig5/results_analysis_scripts
-python3 data_processing.py
+python3 data_processing.py 0
 
 cd ../
 
