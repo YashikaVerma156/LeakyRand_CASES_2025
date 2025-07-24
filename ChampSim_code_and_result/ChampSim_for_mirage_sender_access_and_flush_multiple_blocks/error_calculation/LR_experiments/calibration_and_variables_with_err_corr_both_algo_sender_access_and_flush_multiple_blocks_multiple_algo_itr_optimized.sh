@@ -5,7 +5,6 @@ other_blocks=$4
 err_corr_iterations=$5
 num_prl=$6        ## Number of parallel instances to be run, depends on the number of cores.
 
-other_blocks_previous=${other_blocks}
 
 if [ ${benchmark_test} -eq 1 ]; then
   START_POINT=1     ## Read START_POINT and END_POINT of the benchmark, as a reference for the seed and the benchmark to be used.
@@ -102,7 +101,7 @@ elif [ $other_blocks -eq 31 ]; then
 			    hit_miss_threshold=390
 	fi
 fi
-
+other_blocks_previous=${other_blocks}
 echo "algo_trigger_point: ${algo_trigger_point}, endpoint: ${END_POINT}, startpoint: ${START_POINT}, benchmark_test: ${benchmark_test}, arr_size: ${arr_size}, other_blocks: ${other_blocks}"
 
 #./update_arr_size.sh ${unroll_fact} ${algo_trigger_point} ${err_corr_iterations} ${other_blocks_previous} ${arr_size}
