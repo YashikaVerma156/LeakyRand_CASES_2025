@@ -1,1 +1,2 @@
-Docker 
+Software: Docker, Python3, GCC 10 or above, scons, Xilinx ISE 14.7 software
+Hardware: Intel Xeon Processor, Open Xilinx ISE 14.7
