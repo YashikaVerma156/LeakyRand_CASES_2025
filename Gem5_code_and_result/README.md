@@ -1,7 +1,7 @@
 # LeakyRand evaluation on a Full-system simulator Gem5
 
 ## Setup
-- Download Ubuntu disk image (x86-ubuntu-24.04-img) from Zenodo link(10.5281/zenodo.16237834). Keep it in the same directory where Gem5 and vmlinux is i.e. in LeakyRand\_CASES\_2025/Gem5\_code\_and\_result.
+- Download Ubuntu disk image (x86-ubuntu-24.04-img) from Zenodo link( https://doi.org/10.5281/zenodo.16237834 ). Keep it in the same directory where Gem5 and vmlinux is i.e. in LeakyRand\_CASES\_2025/Gem5\_code\_and\_result.
 - Ubuntu disk image already has all the compiled program binaries.
 
 ## Build Gem5
