@@ -15,4 +15,6 @@ This directory contains the relevant information as mentioned under heading "Doc
 -- The relevant Gem5 code are present on path LeakyRand_CASES_2025/Gem5_code_and_result/gem5/ </br>
 -- Steps to run the experiments are mentioned in file LeakyRand_CASES_2025/ChampSim_code_and_result/README.md </br>
 3. Intel Xeon processor </br>
-4. FPGA synthesis <>/br
+-- The relevant code and steps are present on path LeakyRand_CASES_2025/Intel_Xeon_code_and_result/ </br>
+4. FPGA synthesis </br>
+-- The relevant code and steps are present on path LeakyRand_CASES_2025/FPGA_sythesis/ </br>
