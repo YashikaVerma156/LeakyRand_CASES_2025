@@ -34,6 +34,12 @@ For a brief overview of the project please refer to **`./docs/Presentation.pdf`*
 For detailed documentation of the project, obseevations and results, please refer to the report : **`./docs/Report.pdf`**.
 
 ## Evaluation
-- Input format is explained in section5 and figure 5.2 of docs/Report.pdf.
-- Three types of input strings(length 1024) are used, (a) all 1s, (b) 1011 repeated 256 times, (c) 0010 repeated 256 times
+- Input format is explained in section5 and figure 5.2 of docs/Report.pdf. </br>
+- The input parameters specified are: </br>
+  eci(error correction interval)  </br>
+  sndr_probe_blocks(disturbance set or DS)  </br>
+  in_string(1024) 1024 bits string  </br>
+  crf_blocks0, exp0, crf_blocks1, exp1, crf_blocks2, and exp2 specify the occupancy sequence used as shown in table 3 in paper. </br>
+  (crf_blocks0) ^ exp0  (crf_blocks1) ^ exp1  (crf_blocks2) ^ exp2
+- Three types of input strings(length 1024) are used, (a) all 1s, (b) 1011 repeated 256 times, (c) 0010 repeated 256 times  </br>
 - The results in the paper are mentioned in section 5.10.1 under the heading "FPGA Synthesis of LeakyRand:".
