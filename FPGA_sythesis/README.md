@@ -34,8 +34,8 @@ For a brief overview of the project please refer to **`./docs/Presentation.pdf`*
 For detailed documentation of the project, obseevations and results, please refer to the report : **`./docs/Report.pdf`**.
 
 ## Evaluation
-- Input format is explained in section5 and figure 5.2 of docs/Report.pdf. </br>
-- The input parameters specified are: </br>
+- Input format is explained in section5 and figure 5.2 of /docs/Report.pdf. </br>
+- The input parameters specified in figure 5.2 of /docs/Report.pdf are: </br>
   eci(error correction interval)  </br>
   sndr_probe_blocks(disturbance set or DS)  </br>
   in_string(1024) 1024 bits string  </br>
