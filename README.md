@@ -8,7 +8,7 @@ In the current version, the ChampSim code can only be executed inside a Docker c
 
 ## Gem5:
 Refer to README and code in Gem5_code_and_result/ <br>
-The Ubuntu disk image with pre-compiled program binaries is available on Zenodo link 10.5281/zenodo.16237834
+The Ubuntu disk image with pre-compiled program binaries is available on Zenodo link https://doi.org/10.5281/zenodo.16237834
 
 ## Intel Xeon:
 Refer to README and code in Intel_Xeon_code_and_result/
