@@ -17,7 +17,7 @@ if [ "$#" -ne 6 ]; then
     exit 1
 fi
 
-
+rm temp_2MB.txt
 
 	#echo "arr_sizes: ${arr_sizes}"
 	arr_size_multiples=${arr_sizes}  #$1
@@ -80,12 +80,22 @@ fi
           
         # Retirement cycle of first fence.
         LLC_filling_cycle=`grep -nr "Retiring instr_id: ${a} " ${result_file} | head -1 | awk '{print $10}'`
+        
+	# Cycle spent in CRFill
+        cycle_till_crfill=`grep "clflush" ${result_file} | head -1 | awk '{ print $10}'`
 
         #Access latency to thrash LLC.
         total_cycle=$(( ${tot_cycle} - ${LLC_filling_cycle} ))
+        crfill_cycle=$(( ${cycle_till_crfill} - ${LLC_filling_cycle} ))
+        crprobe_cycle=$(( ${total_cycle} - ${crfill_cycle} ))
         echo "Total cycles spent in simulation: $tot_cycle"
         echo "Cycles spent in initial filling of empty cache: $LLC_filling_cycle"
         echo "Cycles spent including Fill and Probe step, excluding initial cache fill in the beginning: $total_cycle"
         echo "$total_cycle" > temp.txt
 
+        echo "Cycles spent in CRFill: $crfill_cycle"
+        echo "Cycles spent in CRProbe: $crprobe_cycle"
+
+        echo "Cycles spent in CRFill: $crfill_cycle"  >> temp_2MB.txt
+        echo "Cycles spent in CRProbe: $crprobe_cycle" >> temp_2MB.txt
 

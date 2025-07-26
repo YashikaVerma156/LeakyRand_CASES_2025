@@ -9,6 +9,8 @@ arr_sizes=$5
 arr_num_itr=$6
 LLC_NUM_BLOCKS=16384
 
+rm temp_1MB.txt
+
 llc_sets=`expr $LLC_NUM_BLOCKS / 16`
 
 # Check if exactly one argument is passed
@@ -103,3 +105,5 @@ fi
         echo "Cycles spent in CRFill: $crfill_cycle"
         echo "Cycles spent in CRProbe: $crprobe_cycle"
 
+        echo "Cycles spent in CRFill: $crfill_cycle"  >> temp_1MB.txt
+        echo "Cycles spent in CRProbe: $crprobe_cycle" >> temp_1MB.txt

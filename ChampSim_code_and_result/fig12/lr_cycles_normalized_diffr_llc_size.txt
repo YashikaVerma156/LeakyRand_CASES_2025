@@ -1,0 +1,2 @@
+# LR overhead normalized to 4MB LLc, in %
+#LLC_sz CRFill CRProbe Data_bits Marker_bits Error_correction
