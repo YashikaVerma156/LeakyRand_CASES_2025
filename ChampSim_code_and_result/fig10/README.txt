@@ -11,9 +11,11 @@ SETUP:
 4. For a test run and to quickly check the bandwidth trend in the results, keep $str_num as 2 in script.sh,
    Give the script 5 to 6 hours to complete for the test run. Please don't interrupt the build process of ChampSim simulator.
    The bandwidth trend observed in test run will be similar to what is reported in the paper.
-   To generate the original reported results, the $str_num should be 500 (i.e. a total of 6*500 experiments). All 6*500 experiments may take around a week to complete depending on the value of $num_prl.
+   To generate the original reported results, the $str_num should be 500 (i.e. a total of 6*500 experiments). 
+   All 6*500 experiments may take around a week to complete depending on the value of $num_prl.
 
-5. set ${num_prl} as per your machine in script.sh. The value for ${num_prl} should be less than the number of logical cores available on your machine.
+5. set ${num_prl} as per your machine in script.sh. 
+   The value for ${num_prl} should be less than the number of logical cores available on your machine.
 
 RUN SIMULATIONS
  ./script.sh 
