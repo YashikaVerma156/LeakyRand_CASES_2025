@@ -1,0 +1,1 @@
+sender_arr_size: 19660 min_bit1: -129304 max_bit1: -19524 min_bit0: 154 max_bit0: 43214

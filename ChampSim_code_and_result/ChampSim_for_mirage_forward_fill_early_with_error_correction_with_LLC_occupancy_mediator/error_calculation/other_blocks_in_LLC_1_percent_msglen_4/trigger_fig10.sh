@@ -124,7 +124,7 @@ fi
 if [ "$build_2_core_binary" -eq 1 ] || [ "$generate_receiver_trace" -eq 1 ];
 then
     #echo "llc_sets: $llc_sets"
-    ./SPP_error_bandwidth_experiment_multiple_run_with_benchmark_suit_LLC_size_sensitivity.sh ${sender_arr_size_list[0]} 22456 $START_POINT $bench_test $build_2_core_binary $generate_receiver_trace $LLC_size $llc_sets 
+    ./SPP_error_bandwidth_experiment_multiple_run_fig10.sh ${sender_arr_size_list[0]} 22456 $START_POINT $bench_test $build_2_core_binary $generate_receiver_trace $LLC_size $llc_sets 
 fi
 
 #exit
@@ -135,7 +135,7 @@ if [[ $bench_test -eq 1 ]];
 then
     j=$num_prl
     while read line; do
-        i=`expr ${i} + 1`
+        i=`expr ${i} + 1` #i is initialized as -1 above.
 
         if [ $i -lt $START_POINT ]; then
             echo "Skip"
@@ -157,7 +157,7 @@ then
         seed=$column_value
         msg_num=$i
 
-        ./SPP_error_bandwidth_experiment_multiple_run_with_benchmark_suit_LLC_size_sensitivity.sh ${sender_arr_size_list[0]} ${seed} ${msg_num} $bench_test 0 0 $LLC_size $llc_sets &
+        ./SPP_error_bandwidth_experiment_multiple_run_fig10.sh ${sender_arr_size_list[0]} ${seed} ${msg_num} $bench_test 0 0 $LLC_size $llc_sets &
         j=`expr ${j} - 1`
 
         if [ $j -eq 0 ];
@@ -174,15 +174,15 @@ if [[ $bench_test -eq 0 ]];
 then
     j=$num_prl
     while read line; do
-        i=`expr ${i} + 1`
+        i=`expr ${i} + 1`   #i is initialized as -1 above.
 
         if [ $i -lt $START_POINT ]; then
-        echo "Skip"
-						continue
+            echo "Skip"
+	    continue
         fi
         if [ $i -gt $STOP_POINT ]; then
-						echo "Exiting"
-        break
+	    echo "Exiting"
+            break
         fi
         #echo "$line"
         # Split the line into columns using the delimiter.
@@ -196,7 +196,7 @@ then
         seed=$column_value
         msg_num=$i
 
-        ./SPP_error_bandwidth_experiment_multiple_run_with_benchmark_suit_LLC_size_sensitivity.sh ${sender_arr_size_list[0]} ${seed} ${msg_num} $bench_test 0 0 $LLC_size $llc_sets &
+        ./SPP_error_bandwidth_experiment_multiple_run_fig10.sh ${sender_arr_size_list[0]} ${seed} ${msg_num} $bench_test 0 0 $LLC_size $llc_sets &
         j=`expr ${j} - 1`
 
         if [ $j -eq 0 ];

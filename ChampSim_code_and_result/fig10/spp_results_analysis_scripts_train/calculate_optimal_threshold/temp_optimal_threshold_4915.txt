@@ -1,0 +1,1 @@
+size: 4915 min_err_count: 232 Threshold: 1438
