@@ -13,6 +13,8 @@
 - start\_leakyrand\_gem5\_exp.sh run the simulations for which the results are reported in section 5.3.
 - $max\_parallel\_run\_count is currently set to 5. This parameter controls the number of Gem5 simulations that can be run in parallel. You can change it as per your machine.
 - Use sudo ./start\_leakyrand\_gem5\_exp.sh ${total\_experiments} to run the simulations.
+- Single experiment takes around 1 to 1.5 hour to complete on a 3GHz processor.
+  You may check the status of running experiments using htop command (search for gem5).
 
 ## Results Generation
 - cd result\_generation\_scripts
