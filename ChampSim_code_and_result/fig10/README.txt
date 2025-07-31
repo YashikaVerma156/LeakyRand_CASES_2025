@@ -16,7 +16,7 @@ SETUP:
 5. set ${num_prl} as per your machine in script.sh. The value for ${num_prl} should be less than the number of logical cores available on your machine.
 
 RUN SIMULATIONS
- ./script 
+ ./script.sh 
 
 RESULTS: 
 6. The data used to generate the plot for fig10 is given in our_data.txt .
