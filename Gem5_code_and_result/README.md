@@ -21,6 +21,7 @@
 - ./script.sh
 
 # How to read the results
+- Our results in paper are in section 5.3, second para. 
 - Bit error rate(BER) can be calulated with following steps
 - cd result\_generation\_scripts
 - BER for DS: 1500 </br>
