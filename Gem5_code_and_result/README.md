@@ -20,6 +20,22 @@
 - cd result\_generation\_scripts
 - ./script.sh
 
+# How to read the results
+- Bit error rate(BER) can be calulated with following steps
+- cd result\_generation\_scripts
+- BER for DS: 1500 </br>
+  python3 script_for_common_strnum.py 1500 500 </br>
+  the script will display total errors(total_err) for the best threshold calculated. </br>
+  BER = total_err / (100*511)
+- BER for DS: 3000 </br>
+  python3 script_for_common_strnum.py 3000 500 </br>
+  the script will display total errors(total_err) for the best threshold calculated. </br>
+  BER = total_err / (100*511)
+- BER for DS: 4500 </br>
+  python3 script_for_common_strnum.py 4500 500 </br>
+  the script will display total errors(total_err) for the best threshold calculated. </br>
+  BER = total_err / (100*511)
+
 ## How to access compiled program binaries (not necessary for above steps).
 - ./mount\_image.sh
 - sudo su
