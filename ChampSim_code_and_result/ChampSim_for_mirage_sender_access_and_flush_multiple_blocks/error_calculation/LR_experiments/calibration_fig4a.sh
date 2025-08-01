@@ -4,14 +4,14 @@ benchmark_test=$3  ## 0 : train_benchmark is used(250 records). 1 : test_benchma
 other_blocks=$4
 err_corr_iterations=$5
 num_prl=$6        ## Number of parallel instances to be run, depends on the number of cores.
-
+str_num=$7
 
 if [ ${benchmark_test} -eq 1 ]; then
   START_POINT=1     ## Read START_POINT and END_POINT of the benchmark, as a reference for the seed and the benchmark to be used.
-  END_POINT=1       #500  
+  END_POINT=${str_num}       #500  
 elif [ ${benchmark_test} -eq 0 ]; then
   START_POINT=1     #1     ## Read START_POINT and END_POINT of the benchmark, as a reference for the seed and the benchmark to be used.
-  END_POINT=1     #250 
+  END_POINT=${str_num}     #250 
 fi
 string_size=512   # Message Length.
 
@@ -60,17 +60,17 @@ elif [ $other_blocks -eq 31 ]; then
 	    #if [ $err_corr_iterations -eq 2 ]; then
       echo " other blocks are: $other_blocks"
 					if [ ${algo_trigger_point} -eq 128 ]; then
-							arr_size=261448
+							arr_size=261624
 					elif [ ${algo_trigger_point} -eq 64 ]; then
-							arr_size=261432
+							arr_size=261624
 							#other_blocks=32
 					elif [ ${algo_trigger_point} -eq 32 ]; then
-							arr_size=261440
+							arr_size=261624
 							#other_blocks=29
 					elif [ ${algo_trigger_point} -eq 16 ]; then
-							arr_size=261360
+							arr_size=261624
 					elif [ ${algo_trigger_point} -eq 8 ]; then
-							arr_size=261272    
+							arr_size=261624    
 					elif [ ${algo_trigger_point} -eq 256 ]; then
 							arr_size=261624
 					elif [ ${algo_trigger_point} -eq 512 ]; then
@@ -168,4 +168,4 @@ fi
 #exit 
 
 #Below command is used when running general experiments.
-./trigger_LR_WITH_ERR_CORR_both_algo_with_benchmark_suit_sender_access_and_flush_multiple_blocks_multiple_algo_itr_optimized.sh ${unroll_fact} ${START_POINT} ${END_POINT} ${num_prl} ${benchmark_test} ${string_size} ${other_blocks} ${arr_size} ${algo_trigger_point} ${hit_miss_threshold} ${err_corr_iterations}
+./trigger_fig4a.sh ${unroll_fact} ${START_POINT} ${END_POINT} ${num_prl} ${benchmark_test} ${string_size} ${other_blocks} ${arr_size} ${algo_trigger_point} ${hit_miss_threshold} ${err_corr_iterations}
