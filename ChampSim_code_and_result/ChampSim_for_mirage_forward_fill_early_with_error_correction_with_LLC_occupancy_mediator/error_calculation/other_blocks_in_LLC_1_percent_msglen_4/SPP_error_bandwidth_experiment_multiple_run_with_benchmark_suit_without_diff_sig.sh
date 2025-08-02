@@ -32,6 +32,17 @@ pin_output_file_receiver=receiver_seed.txt
 trace1=champsim.trace_receiver_${string_size}_${LLC_size}_no_diff_sig_seed.gz
 #result_file_2core=result_random_2_champsim.trace_receiver_${string_size}_seed.gz_champsim.trace_sender_${string_size}_${string_num}_arr_size_${sender_arr_size}_seed.gz.txt
 
+
+if [ $bench_test == 0 ]
+then
+                result_dir=/home/yashikav/Desktop/Mirage_project/fig4b/spp_results_analysis_scripts_train_without_ref/sender_arr_size_${sender_arr_size}
+                mkdir -p /home/yashikav/Desktop/Mirage_project/fig4b/spp_results_analysis_scripts_train_without_ref/sender_arr_size_${sender_arr_size}
+elif [ $bench_test == 1 ]
+then
+                result_dir=/home/yashikav/Desktop/Mirage_project/fig4b/spp_results_analysis_scripts_test_without_ref/sender_arr_size_${sender_arr_size}
+                mkdir -p /home/yashikav/Desktop/Mirage_project/fig4b/spp_results_analysis_scripts_test_without_ref/sender_arr_size_${sender_arr_size}
+fi
+
 #============= 1.a Generate sender traces ==============#
 #cd ${pin_files_path}
 #./commands_sender_all_1_seed_with_benchmark_suit.sh ${string_num} ${string_size} ${sender_arr_size} ${repetition_coding} ${differential_signalling} ${path_to_copy_trace}
@@ -119,7 +130,7 @@ then
     #Copy this binary to /binary folder
     cp ../../bin/bimodal-no-no-random-2core binary/ 
 else
-    ./run_2core.sh ${sim_count} ${trace1} ${sender_trace} ${seed} ${string_size} 0 0 ${repetition_coding} ${differential_signalling} ${sender_arr_size} ${path_to_copy_trace}
+    ./run_2core.sh ${sim_count} ${trace1} ${sender_trace} ${seed} ${string_size} 0 0 ${repetition_coding} ${differential_signalling} ${sender_arr_size} ${path_to_copy_trace} ${result_dir} 
 fi
 
 

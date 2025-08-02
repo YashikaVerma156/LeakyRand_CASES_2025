@@ -16,10 +16,11 @@ build_2_core_binary=$3  #One time task for a particular LLC size.
 generate_receiver_trace=$4  #One time task for a particular LLC size.
 generate_sender_trace=$5  #One time task for a particular LLC size.
 num_prl=$6
+str_num=$7
 
 # Check if exactly five arguments are passed
-if [ "$#" -ne 5 ]; then
-    echo "Usage: $0 <LLC_size> <bench_test> <build_2_core_binary> <generate_receiver_trace> <generate_sender_trace>"
+if [ "$#" -ne 7 ]; then
+    echo "Usage: $0 <LLC_size> <bench_test> <build_2_core_binary> <generate_receiver_trace> <generate_sender_trace> <num_prl> <str_num>"
     echo "LLC_size should be '2' for 2MB."
     echo "bench_test should be either '1' for test_benchmark_suite or '0' for train_benchmark_suite."
     echo "build_2_core_binary should be either '1' or '0' ; 1 is to generate binary."
@@ -80,11 +81,11 @@ i=-1
 if [ "$bench_test" -eq 1 ];  #Test benchmark suite
 then 
     START_POINT=1
-    STOP_POINT=1  #500
+    STOP_POINT=${str_num}  #500
 elif [ "$bench_test" -eq 0 ];  #Train benchmark suite
 then
     START_POINT=1
-    STOP_POINT=1  #250
+    STOP_POINT=${str_num}  #250
 fi
 
 #Set the sender arr size.
