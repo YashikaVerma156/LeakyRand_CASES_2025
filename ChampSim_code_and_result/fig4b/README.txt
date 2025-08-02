@@ -21,7 +21,7 @@ SETUP:
 5. set ${num_prl} and ${num_prl_mul5} as per your machine in script.sh. 
    The value for ${num_prl} should be less than the number of logical cores available on your machine.
    num_prl_mul5 = 1 launch 5 experiments ; num_prl_mul5 = 2 launch 10 experiments and so on. 
-   The num_prl_mul5 should be set appropriately to not overburden the resources of your system.
+   The num_prl_mul5 should be set appropriately to not overburden the resources of your machine.
 
 RUN SIMULATIONS
  ./script.sh 
