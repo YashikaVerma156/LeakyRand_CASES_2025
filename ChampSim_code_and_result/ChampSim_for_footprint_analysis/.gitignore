@@ -1,0 +1,5 @@
+error_calculation/LR_experiments/results/*.txt
+error_calculation/LR_experiments/pin_traces/*
+error_calculation/LR_experiments/results_new/*.txt
+error_calculation/LR_experiments/binary_new_cov_ch/*
+error_calculation/LR_experiments/binary/*
