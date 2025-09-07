@@ -1,4 +1,4 @@
-str_num=500 #str_num should be 500 to generate the bandwidth reported in the paper. But, keep str_num=1 for a test run. str_num=1 shows a similar trend in bandwidth.
+str_num=1 #str_num should be 500 to generate the bandwidth reported in the paper. But, keep str_num=1 for a test run. str_num=1 shows a similar trend in bandwidth.
 
 cd /home/yashikav/Desktop/Mirage_project/ChampSim_for_mirage_fa_lru_multithreaded_receiver_with_coherence_details/fa_lru_covert_channel/
 
