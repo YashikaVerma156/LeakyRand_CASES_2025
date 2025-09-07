@@ -1,0 +1,8 @@
+fa_lru_covert_channel/results/
+fa_lru_covert_channel/pin_traces/
+fa_lru_covert_channel/binary/
+fa_lru_covert_channel/results_with_helper_core
+bimodal-*core
+champsim.trace*.gz
+result_lru_*
+

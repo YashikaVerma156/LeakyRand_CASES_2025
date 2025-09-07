@@ -1,0 +1,4 @@
+
+1. For efficient version I: use start_fa_lru_final.sh file to run the experiments.
+2. For efficient version II: use start_fa_lru_final_version_II.sh
+3. For the sender and receiver code the whole code is present in Galaxy tab and results generated are present in server.
