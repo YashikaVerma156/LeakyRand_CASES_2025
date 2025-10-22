@@ -1,0 +1,6 @@
+python3 process_latency_optimal_threshold.py 9830
+python3 process_latency_optimal_threshold.py 6554
+python3 process_latency_optimal_threshold.py 3276
+python3 process_latency_optimal_threshold.py 1638
+python3 process_latency_optimal_threshold.py 819
+python3 process_latency_optimal_threshold.py 409

@@ -1,0 +1,1509 @@
+extracted_data/output_9830_1_1000_512.txt
+THRESHOLD:  -2167  Total error:  10  0->1 error:  9  1->0 error:  1
+10
+prev_bit_0_0to1:  9  prev_bit_1_0to1:  0  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -1827  Total error:  9  0->1 error:  6  1->0 error:  3
+9
+prev_bit_0_0to1:  6  prev_bit_1_0to1:  0  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -1800  Total error:  8  0->1 error:  5  1->0 error:  3
+8
+prev_bit_0_0to1:  5  prev_bit_1_0to1:  0  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+extracted_data/output_6554_1_1000_512.txt
+THRESHOLD:  -1944  Total error:  20  0->1 error:  19  1->0 error:  1
+20
+prev_bit_0_0to1:  19  prev_bit_1_0to1:  0  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -1864  Total error:  19  0->1 error:  18  1->0 error:  1
+19
+prev_bit_0_0to1:  18  prev_bit_1_0to1:  0  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -1807  Total error:  18  0->1 error:  17  1->0 error:  1
+18
+prev_bit_0_0to1:  17  prev_bit_1_0to1:  0  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -1703  Total error:  17  0->1 error:  16  1->0 error:  1
+17
+prev_bit_0_0to1:  16  prev_bit_1_0to1:  0  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -1669  Total error:  16  0->1 error:  15  1->0 error:  1
+16
+prev_bit_0_0to1:  15  prev_bit_1_0to1:  0  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -1584  Total error:  15  0->1 error:  14  1->0 error:  1
+15
+prev_bit_0_0to1:  14  prev_bit_1_0to1:  0  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -1453  Total error:  14  0->1 error:  13  1->0 error:  1
+14
+prev_bit_0_0to1:  13  prev_bit_1_0to1:  0  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -1372  Total error:  13  0->1 error:  11  1->0 error:  2
+13
+prev_bit_0_0to1:  11  prev_bit_1_0to1:  0  prev_bit_0_1to0:  0  prev_bit_1_1to0:  2
+THRESHOLD:  -1257  Total error:  12  0->1 error:  10  1->0 error:  2
+12
+prev_bit_0_0to1:  10  prev_bit_1_0to1:  0  prev_bit_0_1to0:  0  prev_bit_1_1to0:  2
+extracted_data/output_3276_1_1000_512.txt
+THRESHOLD:  -3657  Total error:  220  0->1 error:  219  1->0 error:  1
+220
+prev_bit_0_0to1:  91  prev_bit_1_0to1:  128  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3650  Total error:  219  0->1 error:  218  1->0 error:  1
+219
+prev_bit_0_0to1:  91  prev_bit_1_0to1:  127  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3627  Total error:  218  0->1 error:  217  1->0 error:  1
+218
+prev_bit_0_0to1:  90  prev_bit_1_0to1:  127  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3623  Total error:  217  0->1 error:  216  1->0 error:  1
+217
+prev_bit_0_0to1:  90  prev_bit_1_0to1:  126  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3613  Total error:  216  0->1 error:  215  1->0 error:  1
+216
+prev_bit_0_0to1:  89  prev_bit_1_0to1:  126  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3586  Total error:  215  0->1 error:  214  1->0 error:  1
+215
+prev_bit_0_0to1:  89  prev_bit_1_0to1:  125  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3585  Total error:  214  0->1 error:  213  1->0 error:  1
+214
+prev_bit_0_0to1:  89  prev_bit_1_0to1:  124  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3576  Total error:  213  0->1 error:  212  1->0 error:  1
+213
+prev_bit_0_0to1:  88  prev_bit_1_0to1:  124  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3553  Total error:  212  0->1 error:  211  1->0 error:  1
+212
+prev_bit_0_0to1:  88  prev_bit_1_0to1:  123  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3551  Total error:  211  0->1 error:  210  1->0 error:  1
+211
+prev_bit_0_0to1:  87  prev_bit_1_0to1:  123  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3541  Total error:  210  0->1 error:  209  1->0 error:  1
+210
+prev_bit_0_0to1:  87  prev_bit_1_0to1:  122  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3529  Total error:  209  0->1 error:  208  1->0 error:  1
+209
+prev_bit_0_0to1:  86  prev_bit_1_0to1:  122  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3496  Total error:  208  0->1 error:  207  1->0 error:  1
+208
+prev_bit_0_0to1:  85  prev_bit_1_0to1:  122  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3491  Total error:  207  0->1 error:  206  1->0 error:  1
+207
+prev_bit_0_0to1:  84  prev_bit_1_0to1:  122  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3487  Total error:  206  0->1 error:  205  1->0 error:  1
+206
+prev_bit_0_0to1:  83  prev_bit_1_0to1:  122  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3448  Total error:  205  0->1 error:  204  1->0 error:  1
+205
+prev_bit_0_0to1:  83  prev_bit_1_0to1:  121  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3403  Total error:  204  0->1 error:  203  1->0 error:  1
+204
+prev_bit_0_0to1:  83  prev_bit_1_0to1:  120  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3391  Total error:  203  0->1 error:  202  1->0 error:  1
+203
+prev_bit_0_0to1:  82  prev_bit_1_0to1:  120  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3386  Total error:  202  0->1 error:  201  1->0 error:  1
+202
+prev_bit_0_0to1:  82  prev_bit_1_0to1:  119  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3383  Total error:  201  0->1 error:  200  1->0 error:  1
+201
+prev_bit_0_0to1:  82  prev_bit_1_0to1:  118  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3368  Total error:  200  0->1 error:  199  1->0 error:  1
+200
+prev_bit_0_0to1:  81  prev_bit_1_0to1:  118  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3360  Total error:  199  0->1 error:  198  1->0 error:  1
+199
+prev_bit_0_0to1:  81  prev_bit_1_0to1:  117  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3344  Total error:  198  0->1 error:  197  1->0 error:  1
+198
+prev_bit_0_0to1:  80  prev_bit_1_0to1:  117  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3317  Total error:  197  0->1 error:  196  1->0 error:  1
+197
+prev_bit_0_0to1:  79  prev_bit_1_0to1:  117  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3292  Total error:  196  0->1 error:  195  1->0 error:  1
+196
+prev_bit_0_0to1:  78  prev_bit_1_0to1:  117  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3271  Total error:  195  0->1 error:  194  1->0 error:  1
+195
+prev_bit_0_0to1:  78  prev_bit_1_0to1:  116  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3243  Total error:  194  0->1 error:  193  1->0 error:  1
+194
+prev_bit_0_0to1:  77  prev_bit_1_0to1:  116  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3237  Total error:  193  0->1 error:  192  1->0 error:  1
+193
+prev_bit_0_0to1:  77  prev_bit_1_0to1:  115  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3230  Total error:  192  0->1 error:  191  1->0 error:  1
+192
+prev_bit_0_0to1:  76  prev_bit_1_0to1:  115  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3228  Total error:  191  0->1 error:  190  1->0 error:  1
+191
+prev_bit_0_0to1:  76  prev_bit_1_0to1:  114  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3223  Total error:  190  0->1 error:  189  1->0 error:  1
+190
+prev_bit_0_0to1:  75  prev_bit_1_0to1:  114  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3221  Total error:  189  0->1 error:  188  1->0 error:  1
+189
+prev_bit_0_0to1:  74  prev_bit_1_0to1:  114  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3220  Total error:  188  0->1 error:  187  1->0 error:  1
+188
+prev_bit_0_0to1:  74  prev_bit_1_0to1:  113  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3205  Total error:  187  0->1 error:  186  1->0 error:  1
+187
+prev_bit_0_0to1:  73  prev_bit_1_0to1:  113  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3203  Total error:  186  0->1 error:  185  1->0 error:  1
+186
+prev_bit_0_0to1:  72  prev_bit_1_0to1:  113  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3161  Total error:  185  0->1 error:  184  1->0 error:  1
+185
+prev_bit_0_0to1:  72  prev_bit_1_0to1:  112  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3152  Total error:  184  0->1 error:  183  1->0 error:  1
+184
+prev_bit_0_0to1:  72  prev_bit_1_0to1:  111  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3146  Total error:  183  0->1 error:  182  1->0 error:  1
+183
+prev_bit_0_0to1:  72  prev_bit_1_0to1:  110  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3141  Total error:  182  0->1 error:  181  1->0 error:  1
+182
+prev_bit_0_0to1:  71  prev_bit_1_0to1:  110  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3127  Total error:  181  0->1 error:  180  1->0 error:  1
+181
+prev_bit_0_0to1:  71  prev_bit_1_0to1:  109  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3080  Total error:  180  0->1 error:  179  1->0 error:  1
+180
+prev_bit_0_0to1:  70  prev_bit_1_0to1:  109  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3057  Total error:  179  0->1 error:  178  1->0 error:  1
+179
+prev_bit_0_0to1:  70  prev_bit_1_0to1:  108  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3045  Total error:  178  0->1 error:  177  1->0 error:  1
+178
+prev_bit_0_0to1:  69  prev_bit_1_0to1:  108  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3043  Total error:  177  0->1 error:  176  1->0 error:  1
+177
+prev_bit_0_0to1:  69  prev_bit_1_0to1:  107  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -3000  Total error:  176  0->1 error:  175  1->0 error:  1
+176
+prev_bit_0_0to1:  68  prev_bit_1_0to1:  107  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2977  Total error:  175  0->1 error:  174  1->0 error:  1
+175
+prev_bit_0_0to1:  67  prev_bit_1_0to1:  107  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2951  Total error:  174  0->1 error:  173  1->0 error:  1
+174
+prev_bit_0_0to1:  66  prev_bit_1_0to1:  107  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2945  Total error:  173  0->1 error:  172  1->0 error:  1
+173
+prev_bit_0_0to1:  65  prev_bit_1_0to1:  107  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2931  Total error:  172  0->1 error:  171  1->0 error:  1
+172
+prev_bit_0_0to1:  64  prev_bit_1_0to1:  107  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2874  Total error:  171  0->1 error:  170  1->0 error:  1
+171
+prev_bit_0_0to1:  63  prev_bit_1_0to1:  107  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2851  Total error:  170  0->1 error:  169  1->0 error:  1
+170
+prev_bit_0_0to1:  63  prev_bit_1_0to1:  106  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2837  Total error:  169  0->1 error:  168  1->0 error:  1
+169
+prev_bit_0_0to1:  62  prev_bit_1_0to1:  106  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2836  Total error:  168  0->1 error:  167  1->0 error:  1
+168
+prev_bit_0_0to1:  62  prev_bit_1_0to1:  105  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2835  Total error:  167  0->1 error:  166  1->0 error:  1
+167
+prev_bit_0_0to1:  62  prev_bit_1_0to1:  104  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2831  Total error:  166  0->1 error:  165  1->0 error:  1
+166
+prev_bit_0_0to1:  61  prev_bit_1_0to1:  104  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2829  Total error:  165  0->1 error:  164  1->0 error:  1
+165
+prev_bit_0_0to1:  61  prev_bit_1_0to1:  103  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2826  Total error:  164  0->1 error:  163  1->0 error:  1
+164
+prev_bit_0_0to1:  60  prev_bit_1_0to1:  103  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2816  Total error:  163  0->1 error:  162  1->0 error:  1
+163
+prev_bit_0_0to1:  60  prev_bit_1_0to1:  102  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2812  Total error:  162  0->1 error:  161  1->0 error:  1
+162
+prev_bit_0_0to1:  59  prev_bit_1_0to1:  102  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2808  Total error:  161  0->1 error:  160  1->0 error:  1
+161
+prev_bit_0_0to1:  58  prev_bit_1_0to1:  102  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2807  Total error:  160  0->1 error:  159  1->0 error:  1
+160
+prev_bit_0_0to1:  58  prev_bit_1_0to1:  101  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2802  Total error:  159  0->1 error:  158  1->0 error:  1
+159
+prev_bit_0_0to1:  58  prev_bit_1_0to1:  100  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2790  Total error:  158  0->1 error:  157  1->0 error:  1
+158
+prev_bit_0_0to1:  57  prev_bit_1_0to1:  100  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2777  Total error:  157  0->1 error:  156  1->0 error:  1
+157
+prev_bit_0_0to1:  57  prev_bit_1_0to1:  99  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2775  Total error:  156  0->1 error:  155  1->0 error:  1
+156
+prev_bit_0_0to1:  56  prev_bit_1_0to1:  99  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2756  Total error:  155  0->1 error:  154  1->0 error:  1
+155
+prev_bit_0_0to1:  55  prev_bit_1_0to1:  99  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2745  Total error:  154  0->1 error:  153  1->0 error:  1
+154
+prev_bit_0_0to1:  55  prev_bit_1_0to1:  98  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2732  Total error:  153  0->1 error:  152  1->0 error:  1
+153
+prev_bit_0_0to1:  54  prev_bit_1_0to1:  98  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2724  Total error:  152  0->1 error:  151  1->0 error:  1
+152
+prev_bit_0_0to1:  54  prev_bit_1_0to1:  97  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2718  Total error:  151  0->1 error:  150  1->0 error:  1
+151
+prev_bit_0_0to1:  54  prev_bit_1_0to1:  96  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2709  Total error:  150  0->1 error:  149  1->0 error:  1
+150
+prev_bit_0_0to1:  54  prev_bit_1_0to1:  95  prev_bit_0_1to0:  1  prev_bit_1_1to0:  0
+THRESHOLD:  -2576  Total error:  149  0->1 error:  147  1->0 error:  2
+149
+prev_bit_0_0to1:  54  prev_bit_1_0to1:  93  prev_bit_0_1to0:  1  prev_bit_1_1to0:  1
+THRESHOLD:  -2575  Total error:  148  0->1 error:  146  1->0 error:  2
+148
+prev_bit_0_0to1:  54  prev_bit_1_0to1:  92  prev_bit_0_1to0:  1  prev_bit_1_1to0:  1
+THRESHOLD:  -2536  Total error:  147  0->1 error:  145  1->0 error:  2
+147
+prev_bit_0_0to1:  53  prev_bit_1_0to1:  92  prev_bit_0_1to0:  1  prev_bit_1_1to0:  1
+THRESHOLD:  -2519  Total error:  146  0->1 error:  144  1->0 error:  2
+146
+prev_bit_0_0to1:  52  prev_bit_1_0to1:  92  prev_bit_0_1to0:  1  prev_bit_1_1to0:  1
+THRESHOLD:  -2452  Total error:  145  0->1 error:  143  1->0 error:  2
+145
+prev_bit_0_0to1:  51  prev_bit_1_0to1:  92  prev_bit_0_1to0:  1  prev_bit_1_1to0:  1
+THRESHOLD:  -2421  Total error:  144  0->1 error:  142  1->0 error:  2
+144
+prev_bit_0_0to1:  51  prev_bit_1_0to1:  91  prev_bit_0_1to0:  1  prev_bit_1_1to0:  1
+THRESHOLD:  -2384  Total error:  143  0->1 error:  141  1->0 error:  2
+143
+prev_bit_0_0to1:  51  prev_bit_1_0to1:  90  prev_bit_0_1to0:  1  prev_bit_1_1to0:  1
+THRESHOLD:  -2363  Total error:  142  0->1 error:  140  1->0 error:  2
+142
+prev_bit_0_0to1:  51  prev_bit_1_0to1:  89  prev_bit_0_1to0:  1  prev_bit_1_1to0:  1
+THRESHOLD:  -2333  Total error:  141  0->1 error:  139  1->0 error:  2
+141
+prev_bit_0_0to1:  51  prev_bit_1_0to1:  88  prev_bit_0_1to0:  1  prev_bit_1_1to0:  1
+THRESHOLD:  -2320  Total error:  140  0->1 error:  138  1->0 error:  2
+140
+prev_bit_0_0to1:  51  prev_bit_1_0to1:  87  prev_bit_0_1to0:  1  prev_bit_1_1to0:  1
+THRESHOLD:  -2308  Total error:  139  0->1 error:  137  1->0 error:  2
+139
+prev_bit_0_0to1:  51  prev_bit_1_0to1:  86  prev_bit_0_1to0:  1  prev_bit_1_1to0:  1
+THRESHOLD:  -2301  Total error:  138  0->1 error:  136  1->0 error:  2
+138
+prev_bit_0_0to1:  51  prev_bit_1_0to1:  85  prev_bit_0_1to0:  1  prev_bit_1_1to0:  1
+THRESHOLD:  -2232  Total error:  137  0->1 error:  135  1->0 error:  2
+137
+prev_bit_0_0to1:  51  prev_bit_1_0to1:  84  prev_bit_0_1to0:  1  prev_bit_1_1to0:  1
+THRESHOLD:  -2231  Total error:  136  0->1 error:  134  1->0 error:  2
+136
+prev_bit_0_0to1:  50  prev_bit_1_0to1:  84  prev_bit_0_1to0:  1  prev_bit_1_1to0:  1
+THRESHOLD:  -2224  Total error:  135  0->1 error:  133  1->0 error:  2
+135
+prev_bit_0_0to1:  50  prev_bit_1_0to1:  83  prev_bit_0_1to0:  1  prev_bit_1_1to0:  1
+THRESHOLD:  -2220  Total error:  134  0->1 error:  132  1->0 error:  2
+134
+prev_bit_0_0to1:  49  prev_bit_1_0to1:  83  prev_bit_0_1to0:  1  prev_bit_1_1to0:  1
+THRESHOLD:  -2200  Total error:  133  0->1 error:  131  1->0 error:  2
+133
+prev_bit_0_0to1:  48  prev_bit_1_0to1:  83  prev_bit_0_1to0:  1  prev_bit_1_1to0:  1
+THRESHOLD:  -2196  Total error:  132  0->1 error:  130  1->0 error:  2
+132
+prev_bit_0_0to1:  48  prev_bit_1_0to1:  82  prev_bit_0_1to0:  1  prev_bit_1_1to0:  1
+THRESHOLD:  -2177  Total error:  131  0->1 error:  129  1->0 error:  2
+131
+prev_bit_0_0to1:  47  prev_bit_1_0to1:  82  prev_bit_0_1to0:  1  prev_bit_1_1to0:  1
+THRESHOLD:  -2172  Total error:  130  0->1 error:  128  1->0 error:  2
+130
+prev_bit_0_0to1:  47  prev_bit_1_0to1:  81  prev_bit_0_1to0:  1  prev_bit_1_1to0:  1
+THRESHOLD:  -2166  Total error:  128  0->1 error:  126  1->0 error:  2
+128
+prev_bit_0_0to1:  45  prev_bit_1_0to1:  81  prev_bit_0_1to0:  1  prev_bit_1_1to0:  1
+THRESHOLD:  -2154  Total error:  127  0->1 error:  124  1->0 error:  3
+127
+prev_bit_0_0to1:  45  prev_bit_1_0to1:  79  prev_bit_0_1to0:  1  prev_bit_1_1to0:  2
+THRESHOLD:  -2140  Total error:  126  0->1 error:  123  1->0 error:  3
+126
+prev_bit_0_0to1:  45  prev_bit_1_0to1:  78  prev_bit_0_1to0:  1  prev_bit_1_1to0:  2
+THRESHOLD:  -2066  Total error:  125  0->1 error:  121  1->0 error:  4
+125
+prev_bit_0_0to1:  45  prev_bit_1_0to1:  76  prev_bit_0_1to0:  1  prev_bit_1_1to0:  3
+THRESHOLD:  -2031  Total error:  124  0->1 error:  119  1->0 error:  5
+124
+prev_bit_0_0to1:  44  prev_bit_1_0to1:  75  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -2028  Total error:  123  0->1 error:  118  1->0 error:  5
+123
+prev_bit_0_0to1:  43  prev_bit_1_0to1:  75  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -2027  Total error:  122  0->1 error:  117  1->0 error:  5
+122
+prev_bit_0_0to1:  43  prev_bit_1_0to1:  74  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -2006  Total error:  121  0->1 error:  116  1->0 error:  5
+121
+prev_bit_0_0to1:  43  prev_bit_1_0to1:  73  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -1994  Total error:  119  0->1 error:  114  1->0 error:  5
+119
+prev_bit_0_0to1:  43  prev_bit_1_0to1:  71  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -1980  Total error:  118  0->1 error:  113  1->0 error:  5
+118
+prev_bit_0_0to1:  43  prev_bit_1_0to1:  70  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -1962  Total error:  117  0->1 error:  112  1->0 error:  5
+117
+prev_bit_0_0to1:  42  prev_bit_1_0to1:  70  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -1950  Total error:  116  0->1 error:  111  1->0 error:  5
+116
+prev_bit_0_0to1:  41  prev_bit_1_0to1:  70  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -1946  Total error:  115  0->1 error:  110  1->0 error:  5
+115
+prev_bit_0_0to1:  41  prev_bit_1_0to1:  69  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -1932  Total error:  114  0->1 error:  109  1->0 error:  5
+114
+prev_bit_0_0to1:  40  prev_bit_1_0to1:  69  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -1919  Total error:  113  0->1 error:  108  1->0 error:  5
+113
+prev_bit_0_0to1:  40  prev_bit_1_0to1:  68  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -1911  Total error:  112  0->1 error:  107  1->0 error:  5
+112
+prev_bit_0_0to1:  40  prev_bit_1_0to1:  67  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -1899  Total error:  111  0->1 error:  106  1->0 error:  5
+111
+prev_bit_0_0to1:  39  prev_bit_1_0to1:  67  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -1876  Total error:  110  0->1 error:  105  1->0 error:  5
+110
+prev_bit_0_0to1:  39  prev_bit_1_0to1:  66  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -1853  Total error:  109  0->1 error:  104  1->0 error:  5
+109
+prev_bit_0_0to1:  39  prev_bit_1_0to1:  65  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -1839  Total error:  108  0->1 error:  103  1->0 error:  5
+108
+prev_bit_0_0to1:  39  prev_bit_1_0to1:  64  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -1810  Total error:  107  0->1 error:  101  1->0 error:  6
+107
+prev_bit_0_0to1:  38  prev_bit_1_0to1:  63  prev_bit_0_1to0:  1  prev_bit_1_1to0:  5
+THRESHOLD:  -1802  Total error:  106  0->1 error:  100  1->0 error:  6
+106
+prev_bit_0_0to1:  38  prev_bit_1_0to1:  62  prev_bit_0_1to0:  1  prev_bit_1_1to0:  5
+THRESHOLD:  -1786  Total error:  105  0->1 error:  98  1->0 error:  7
+105
+prev_bit_0_0to1:  38  prev_bit_1_0to1:  60  prev_bit_0_1to0:  1  prev_bit_1_1to0:  6
+THRESHOLD:  -1781  Total error:  104  0->1 error:  97  1->0 error:  7
+104
+prev_bit_0_0to1:  37  prev_bit_1_0to1:  60  prev_bit_0_1to0:  1  prev_bit_1_1to0:  6
+THRESHOLD:  -1757  Total error:  103  0->1 error:  96  1->0 error:  7
+103
+prev_bit_0_0to1:  37  prev_bit_1_0to1:  59  prev_bit_0_1to0:  1  prev_bit_1_1to0:  6
+THRESHOLD:  -1750  Total error:  102  0->1 error:  95  1->0 error:  7
+102
+prev_bit_0_0to1:  37  prev_bit_1_0to1:  58  prev_bit_0_1to0:  1  prev_bit_1_1to0:  6
+THRESHOLD:  -1746  Total error:  100  0->1 error:  93  1->0 error:  7
+100
+prev_bit_0_0to1:  36  prev_bit_1_0to1:  57  prev_bit_0_1to0:  1  prev_bit_1_1to0:  6
+THRESHOLD:  -1678  Total error:  99  0->1 error:  91  1->0 error:  8
+99
+prev_bit_0_0to1:  34  prev_bit_1_0to1:  57  prev_bit_0_1to0:  1  prev_bit_1_1to0:  7
+THRESHOLD:  -1667  Total error:  98  0->1 error:  90  1->0 error:  8
+98
+prev_bit_0_0to1:  34  prev_bit_1_0to1:  56  prev_bit_0_1to0:  1  prev_bit_1_1to0:  7
+THRESHOLD:  -1654  Total error:  97  0->1 error:  88  1->0 error:  9
+97
+prev_bit_0_0to1:  34  prev_bit_1_0to1:  54  prev_bit_0_1to0:  1  prev_bit_1_1to0:  8
+THRESHOLD:  -1611  Total error:  96  0->1 error:  86  1->0 error:  10
+96
+prev_bit_0_0to1:  33  prev_bit_1_0to1:  53  prev_bit_0_1to0:  1  prev_bit_1_1to0:  9
+THRESHOLD:  -1593  Total error:  95  0->1 error:  85  1->0 error:  10
+95
+prev_bit_0_0to1:  32  prev_bit_1_0to1:  53  prev_bit_0_1to0:  1  prev_bit_1_1to0:  9
+THRESHOLD:  -1574  Total error:  94  0->1 error:  83  1->0 error:  11
+94
+prev_bit_0_0to1:  30  prev_bit_1_0to1:  53  prev_bit_0_1to0:  1  prev_bit_1_1to0:  10
+THRESHOLD:  -1565  Total error:  93  0->1 error:  82  1->0 error:  11
+93
+prev_bit_0_0to1:  29  prev_bit_1_0to1:  53  prev_bit_0_1to0:  1  prev_bit_1_1to0:  10
+THRESHOLD:  -1503  Total error:  92  0->1 error:  81  1->0 error:  11
+92
+prev_bit_0_0to1:  29  prev_bit_1_0to1:  52  prev_bit_0_1to0:  1  prev_bit_1_1to0:  10
+THRESHOLD:  -1467  Total error:  91  0->1 error:  78  1->0 error:  13
+91
+prev_bit_0_0to1:  27  prev_bit_1_0to1:  51  prev_bit_0_1to0:  1  prev_bit_1_1to0:  12
+THRESHOLD:  -1432  Total error:  90  0->1 error:  76  1->0 error:  14
+90
+prev_bit_0_0to1:  27  prev_bit_1_0to1:  49  prev_bit_0_1to0:  1  prev_bit_1_1to0:  13
+THRESHOLD:  -1338  Total error:  89  0->1 error:  74  1->0 error:  15
+89
+prev_bit_0_0to1:  27  prev_bit_1_0to1:  47  prev_bit_0_1to0:  1  prev_bit_1_1to0:  14
+THRESHOLD:  -1323  Total error:  88  0->1 error:  72  1->0 error:  16
+88
+prev_bit_0_0to1:  27  prev_bit_1_0to1:  45  prev_bit_0_1to0:  1  prev_bit_1_1to0:  15
+THRESHOLD:  -1302  Total error:  87  0->1 error:  71  1->0 error:  16
+87
+prev_bit_0_0to1:  26  prev_bit_1_0to1:  45  prev_bit_0_1to0:  1  prev_bit_1_1to0:  15
+THRESHOLD:  -1262  Total error:  86  0->1 error:  69  1->0 error:  17
+86
+prev_bit_0_0to1:  26  prev_bit_1_0to1:  43  prev_bit_0_1to0:  1  prev_bit_1_1to0:  16
+THRESHOLD:  -1231  Total error:  84  0->1 error:  67  1->0 error:  17
+84
+prev_bit_0_0to1:  26  prev_bit_1_0to1:  41  prev_bit_0_1to0:  1  prev_bit_1_1to0:  16
+THRESHOLD:  -1228  Total error:  83  0->1 error:  66  1->0 error:  17
+83
+prev_bit_0_0to1:  25  prev_bit_1_0to1:  41  prev_bit_0_1to0:  1  prev_bit_1_1to0:  16
+THRESHOLD:  -1227  Total error:  82  0->1 error:  65  1->0 error:  17
+82
+prev_bit_0_0to1:  24  prev_bit_1_0to1:  41  prev_bit_0_1to0:  1  prev_bit_1_1to0:  16
+THRESHOLD:  -1219  Total error:  81  0->1 error:  64  1->0 error:  17
+81
+prev_bit_0_0to1:  24  prev_bit_1_0to1:  40  prev_bit_0_1to0:  1  prev_bit_1_1to0:  16
+THRESHOLD:  -1215  Total error:  80  0->1 error:  63  1->0 error:  17
+80
+prev_bit_0_0to1:  23  prev_bit_1_0to1:  40  prev_bit_0_1to0:  1  prev_bit_1_1to0:  16
+THRESHOLD:  -1177  Total error:  79  0->1 error:  61  1->0 error:  18
+79
+prev_bit_0_0to1:  22  prev_bit_1_0to1:  39  prev_bit_0_1to0:  1  prev_bit_1_1to0:  17
+THRESHOLD:  -1165  Total error:  78  0->1 error:  60  1->0 error:  18
+78
+prev_bit_0_0to1:  21  prev_bit_1_0to1:  39  prev_bit_0_1to0:  1  prev_bit_1_1to0:  17
+THRESHOLD:  -1159  Total error:  77  0->1 error:  59  1->0 error:  18
+77
+prev_bit_0_0to1:  21  prev_bit_1_0to1:  38  prev_bit_0_1to0:  1  prev_bit_1_1to0:  17
+THRESHOLD:  -1124  Total error:  76  0->1 error:  57  1->0 error:  19
+76
+prev_bit_0_0to1:  20  prev_bit_1_0to1:  37  prev_bit_0_1to0:  1  prev_bit_1_1to0:  18
+THRESHOLD:  -1082  Total error:  75  0->1 error:  56  1->0 error:  19
+75
+prev_bit_0_0to1:  20  prev_bit_1_0to1:  36  prev_bit_0_1to0:  1  prev_bit_1_1to0:  18
+THRESHOLD:  -1030  Total error:  74  0->1 error:  55  1->0 error:  19
+74
+prev_bit_0_0to1:  19  prev_bit_1_0to1:  36  prev_bit_0_1to0:  1  prev_bit_1_1to0:  18
+THRESHOLD:  -1007  Total error:  73  0->1 error:  54  1->0 error:  19
+73
+prev_bit_0_0to1:  18  prev_bit_1_0to1:  36  prev_bit_0_1to0:  1  prev_bit_1_1to0:  18
+THRESHOLD:  -862  Total error:  72  0->1 error:  45  1->0 error:  27
+72
+prev_bit_0_0to1:  14  prev_bit_1_0to1:  31  prev_bit_0_1to0:  3  prev_bit_1_1to0:  24
+THRESHOLD:  -848  Total error:  71  0->1 error:  44  1->0 error:  27
+71
+prev_bit_0_0to1:  14  prev_bit_1_0to1:  30  prev_bit_0_1to0:  3  prev_bit_1_1to0:  24
+THRESHOLD:  -847  Total error:  70  0->1 error:  43  1->0 error:  27
+70
+prev_bit_0_0to1:  14  prev_bit_1_0to1:  29  prev_bit_0_1to0:  3  prev_bit_1_1to0:  24
+THRESHOLD:  -818  Total error:  69  0->1 error:  42  1->0 error:  27
+69
+prev_bit_0_0to1:  13  prev_bit_1_0to1:  29  prev_bit_0_1to0:  3  prev_bit_1_1to0:  24
+THRESHOLD:  -755  Total error:  68  0->1 error:  41  1->0 error:  27
+68
+prev_bit_0_0to1:  13  prev_bit_1_0to1:  28  prev_bit_0_1to0:  3  prev_bit_1_1to0:  24
+THRESHOLD:  -750  Total error:  67  0->1 error:  40  1->0 error:  27
+67
+prev_bit_0_0to1:  13  prev_bit_1_0to1:  27  prev_bit_0_1to0:  3  prev_bit_1_1to0:  24
+THRESHOLD:  -737  Total error:  66  0->1 error:  39  1->0 error:  27
+66
+prev_bit_0_0to1:  13  prev_bit_1_0to1:  26  prev_bit_0_1to0:  3  prev_bit_1_1to0:  24
+THRESHOLD:  -716  Total error:  65  0->1 error:  38  1->0 error:  27
+65
+prev_bit_0_0to1:  12  prev_bit_1_0to1:  26  prev_bit_0_1to0:  3  prev_bit_1_1to0:  24
+extracted_data/output_1638_1_1000_512.txt
+THRESHOLD:  -3948  Total error:  207  0->1 error:  206  1->0 error:  1
+207
+prev_bit_0_0to1:  87  prev_bit_1_0to1:  119  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -3890  Total error:  206  0->1 error:  205  1->0 error:  1
+206
+prev_bit_0_0to1:  86  prev_bit_1_0to1:  119  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -3877  Total error:  205  0->1 error:  204  1->0 error:  1
+205
+prev_bit_0_0to1:  85  prev_bit_1_0to1:  119  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -3873  Total error:  204  0->1 error:  203  1->0 error:  1
+204
+prev_bit_0_0to1:  85  prev_bit_1_0to1:  118  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -3857  Total error:  203  0->1 error:  202  1->0 error:  1
+203
+prev_bit_0_0to1:  85  prev_bit_1_0to1:  117  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -3822  Total error:  202  0->1 error:  201  1->0 error:  1
+202
+prev_bit_0_0to1:  85  prev_bit_1_0to1:  116  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -3755  Total error:  201  0->1 error:  200  1->0 error:  1
+201
+prev_bit_0_0to1:  84  prev_bit_1_0to1:  116  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -3737  Total error:  200  0->1 error:  199  1->0 error:  1
+200
+prev_bit_0_0to1:  84  prev_bit_1_0to1:  115  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -3721  Total error:  199  0->1 error:  198  1->0 error:  1
+199
+prev_bit_0_0to1:  83  prev_bit_1_0to1:  115  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -3706  Total error:  198  0->1 error:  197  1->0 error:  1
+198
+prev_bit_0_0to1:  82  prev_bit_1_0to1:  115  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -3639  Total error:  197  0->1 error:  196  1->0 error:  1
+197
+prev_bit_0_0to1:  82  prev_bit_1_0to1:  114  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -3558  Total error:  196  0->1 error:  195  1->0 error:  1
+196
+prev_bit_0_0to1:  81  prev_bit_1_0to1:  114  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -3549  Total error:  195  0->1 error:  194  1->0 error:  1
+195
+prev_bit_0_0to1:  81  prev_bit_1_0to1:  113  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -3545  Total error:  194  0->1 error:  193  1->0 error:  1
+194
+prev_bit_0_0to1:  80  prev_bit_1_0to1:  113  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -3508  Total error:  193  0->1 error:  192  1->0 error:  1
+193
+prev_bit_0_0to1:  80  prev_bit_1_0to1:  112  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -3489  Total error:  192  0->1 error:  190  1->0 error:  2
+192
+prev_bit_0_0to1:  79  prev_bit_1_0to1:  111  prev_bit_0_1to0:  0  prev_bit_1_1to0:  2
+THRESHOLD:  -3485  Total error:  191  0->1 error:  189  1->0 error:  2
+191
+prev_bit_0_0to1:  78  prev_bit_1_0to1:  111  prev_bit_0_1to0:  0  prev_bit_1_1to0:  2
+THRESHOLD:  -3479  Total error:  190  0->1 error:  188  1->0 error:  2
+190
+prev_bit_0_0to1:  78  prev_bit_1_0to1:  110  prev_bit_0_1to0:  0  prev_bit_1_1to0:  2
+THRESHOLD:  -3451  Total error:  189  0->1 error:  187  1->0 error:  2
+189
+prev_bit_0_0to1:  77  prev_bit_1_0to1:  110  prev_bit_0_1to0:  0  prev_bit_1_1to0:  2
+THRESHOLD:  -3450  Total error:  188  0->1 error:  186  1->0 error:  2
+188
+prev_bit_0_0to1:  77  prev_bit_1_0to1:  109  prev_bit_0_1to0:  0  prev_bit_1_1to0:  2
+THRESHOLD:  -3439  Total error:  187  0->1 error:  185  1->0 error:  2
+187
+prev_bit_0_0to1:  76  prev_bit_1_0to1:  109  prev_bit_0_1to0:  0  prev_bit_1_1to0:  2
+THRESHOLD:  -3392  Total error:  186  0->1 error:  184  1->0 error:  2
+186
+prev_bit_0_0to1:  75  prev_bit_1_0to1:  109  prev_bit_0_1to0:  0  prev_bit_1_1to0:  2
+THRESHOLD:  -3355  Total error:  185  0->1 error:  183  1->0 error:  2
+185
+prev_bit_0_0to1:  75  prev_bit_1_0to1:  108  prev_bit_0_1to0:  0  prev_bit_1_1to0:  2
+THRESHOLD:  -3352  Total error:  184  0->1 error:  182  1->0 error:  2
+184
+prev_bit_0_0to1:  75  prev_bit_1_0to1:  107  prev_bit_0_1to0:  0  prev_bit_1_1to0:  2
+THRESHOLD:  -3344  Total error:  183  0->1 error:  181  1->0 error:  2
+183
+prev_bit_0_0to1:  75  prev_bit_1_0to1:  106  prev_bit_0_1to0:  0  prev_bit_1_1to0:  2
+THRESHOLD:  -3340  Total error:  182  0->1 error:  180  1->0 error:  2
+182
+prev_bit_0_0to1:  74  prev_bit_1_0to1:  106  prev_bit_0_1to0:  0  prev_bit_1_1to0:  2
+THRESHOLD:  -3297  Total error:  181  0->1 error:  178  1->0 error:  3
+181
+prev_bit_0_0to1:  74  prev_bit_1_0to1:  104  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -3286  Total error:  180  0->1 error:  177  1->0 error:  3
+180
+prev_bit_0_0to1:  73  prev_bit_1_0to1:  104  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -3283  Total error:  179  0->1 error:  176  1->0 error:  3
+179
+prev_bit_0_0to1:  72  prev_bit_1_0to1:  104  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -3266  Total error:  178  0->1 error:  175  1->0 error:  3
+178
+prev_bit_0_0to1:  71  prev_bit_1_0to1:  104  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -3260  Total error:  177  0->1 error:  174  1->0 error:  3
+177
+prev_bit_0_0to1:  71  prev_bit_1_0to1:  103  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -3253  Total error:  176  0->1 error:  173  1->0 error:  3
+176
+prev_bit_0_0to1:  70  prev_bit_1_0to1:  103  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -3243  Total error:  175  0->1 error:  172  1->0 error:  3
+175
+prev_bit_0_0to1:  70  prev_bit_1_0to1:  102  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -3076  Total error:  174  0->1 error:  171  1->0 error:  3
+174
+prev_bit_0_0to1:  70  prev_bit_1_0to1:  101  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -2984  Total error:  173  0->1 error:  170  1->0 error:  3
+173
+prev_bit_0_0to1:  70  prev_bit_1_0to1:  100  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -2977  Total error:  172  0->1 error:  169  1->0 error:  3
+172
+prev_bit_0_0to1:  70  prev_bit_1_0to1:  99  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -2968  Total error:  171  0->1 error:  168  1->0 error:  3
+171
+prev_bit_0_0to1:  69  prev_bit_1_0to1:  99  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -2953  Total error:  170  0->1 error:  167  1->0 error:  3
+170
+prev_bit_0_0to1:  69  prev_bit_1_0to1:  98  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -2948  Total error:  169  0->1 error:  166  1->0 error:  3
+169
+prev_bit_0_0to1:  69  prev_bit_1_0to1:  97  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -2934  Total error:  168  0->1 error:  165  1->0 error:  3
+168
+prev_bit_0_0to1:  69  prev_bit_1_0to1:  96  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -2913  Total error:  167  0->1 error:  164  1->0 error:  3
+167
+prev_bit_0_0to1:  69  prev_bit_1_0to1:  95  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -2889  Total error:  166  0->1 error:  163  1->0 error:  3
+166
+prev_bit_0_0to1:  68  prev_bit_1_0to1:  95  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -2884  Total error:  165  0->1 error:  162  1->0 error:  3
+165
+prev_bit_0_0to1:  67  prev_bit_1_0to1:  95  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -2881  Total error:  164  0->1 error:  161  1->0 error:  3
+164
+prev_bit_0_0to1:  67  prev_bit_1_0to1:  94  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -2875  Total error:  163  0->1 error:  160  1->0 error:  3
+163
+prev_bit_0_0to1:  67  prev_bit_1_0to1:  93  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -2863  Total error:  162  0->1 error:  159  1->0 error:  3
+162
+prev_bit_0_0to1:  67  prev_bit_1_0to1:  92  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -2822  Total error:  161  0->1 error:  158  1->0 error:  3
+161
+prev_bit_0_0to1:  67  prev_bit_1_0to1:  91  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -2820  Total error:  160  0->1 error:  157  1->0 error:  3
+160
+prev_bit_0_0to1:  67  prev_bit_1_0to1:  90  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -2795  Total error:  159  0->1 error:  156  1->0 error:  3
+159
+prev_bit_0_0to1:  66  prev_bit_1_0to1:  90  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -2761  Total error:  158  0->1 error:  155  1->0 error:  3
+158
+prev_bit_0_0to1:  65  prev_bit_1_0to1:  90  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -2752  Total error:  157  0->1 error:  154  1->0 error:  3
+157
+prev_bit_0_0to1:  65  prev_bit_1_0to1:  89  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -2737  Total error:  156  0->1 error:  153  1->0 error:  3
+156
+prev_bit_0_0to1:  64  prev_bit_1_0to1:  89  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -2715  Total error:  155  0->1 error:  152  1->0 error:  3
+155
+prev_bit_0_0to1:  63  prev_bit_1_0to1:  89  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -2686  Total error:  154  0->1 error:  151  1->0 error:  3
+154
+prev_bit_0_0to1:  63  prev_bit_1_0to1:  88  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -2678  Total error:  153  0->1 error:  150  1->0 error:  3
+153
+prev_bit_0_0to1:  62  prev_bit_1_0to1:  88  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -2659  Total error:  152  0->1 error:  149  1->0 error:  3
+152
+prev_bit_0_0to1:  61  prev_bit_1_0to1:  88  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -2658  Total error:  151  0->1 error:  148  1->0 error:  3
+151
+prev_bit_0_0to1:  61  prev_bit_1_0to1:  87  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -2596  Total error:  150  0->1 error:  146  1->0 error:  4
+150
+prev_bit_0_0to1:  59  prev_bit_1_0to1:  87  prev_bit_0_1to0:  0  prev_bit_1_1to0:  4
+THRESHOLD:  -2593  Total error:  148  0->1 error:  144  1->0 error:  4
+148
+prev_bit_0_0to1:  59  prev_bit_1_0to1:  85  prev_bit_0_1to0:  0  prev_bit_1_1to0:  4
+THRESHOLD:  -2565  Total error:  147  0->1 error:  143  1->0 error:  4
+147
+prev_bit_0_0to1:  59  prev_bit_1_0to1:  84  prev_bit_0_1to0:  0  prev_bit_1_1to0:  4
+THRESHOLD:  -2559  Total error:  146  0->1 error:  142  1->0 error:  4
+146
+prev_bit_0_0to1:  58  prev_bit_1_0to1:  84  prev_bit_0_1to0:  0  prev_bit_1_1to0:  4
+THRESHOLD:  -2526  Total error:  145  0->1 error:  141  1->0 error:  4
+145
+prev_bit_0_0to1:  58  prev_bit_1_0to1:  83  prev_bit_0_1to0:  0  prev_bit_1_1to0:  4
+THRESHOLD:  -2444  Total error:  144  0->1 error:  140  1->0 error:  4
+144
+prev_bit_0_0to1:  58  prev_bit_1_0to1:  82  prev_bit_0_1to0:  0  prev_bit_1_1to0:  4
+THRESHOLD:  -2440  Total error:  143  0->1 error:  139  1->0 error:  4
+143
+prev_bit_0_0to1:  58  prev_bit_1_0to1:  81  prev_bit_0_1to0:  0  prev_bit_1_1to0:  4
+THRESHOLD:  -2412  Total error:  142  0->1 error:  138  1->0 error:  4
+142
+prev_bit_0_0to1:  57  prev_bit_1_0to1:  81  prev_bit_0_1to0:  0  prev_bit_1_1to0:  4
+THRESHOLD:  -2407  Total error:  141  0->1 error:  137  1->0 error:  4
+141
+prev_bit_0_0to1:  57  prev_bit_1_0to1:  80  prev_bit_0_1to0:  0  prev_bit_1_1to0:  4
+THRESHOLD:  -2370  Total error:  140  0->1 error:  136  1->0 error:  4
+140
+prev_bit_0_0to1:  56  prev_bit_1_0to1:  80  prev_bit_0_1to0:  0  prev_bit_1_1to0:  4
+THRESHOLD:  -2342  Total error:  139  0->1 error:  135  1->0 error:  4
+139
+prev_bit_0_0to1:  56  prev_bit_1_0to1:  79  prev_bit_0_1to0:  0  prev_bit_1_1to0:  4
+THRESHOLD:  -2341  Total error:  138  0->1 error:  134  1->0 error:  4
+138
+prev_bit_0_0to1:  56  prev_bit_1_0to1:  78  prev_bit_0_1to0:  0  prev_bit_1_1to0:  4
+THRESHOLD:  -2292  Total error:  137  0->1 error:  132  1->0 error:  5
+137
+prev_bit_0_0to1:  54  prev_bit_1_0to1:  78  prev_bit_0_1to0:  0  prev_bit_1_1to0:  5
+THRESHOLD:  -2229  Total error:  136  0->1 error:  130  1->0 error:  6
+136
+prev_bit_0_0to1:  53  prev_bit_1_0to1:  77  prev_bit_0_1to0:  0  prev_bit_1_1to0:  6
+THRESHOLD:  -2183  Total error:  135  0->1 error:  129  1->0 error:  6
+135
+prev_bit_0_0to1:  53  prev_bit_1_0to1:  76  prev_bit_0_1to0:  0  prev_bit_1_1to0:  6
+THRESHOLD:  -2179  Total error:  134  0->1 error:  128  1->0 error:  6
+134
+prev_bit_0_0to1:  53  prev_bit_1_0to1:  75  prev_bit_0_1to0:  0  prev_bit_1_1to0:  6
+THRESHOLD:  -2155  Total error:  133  0->1 error:  127  1->0 error:  6
+133
+prev_bit_0_0to1:  52  prev_bit_1_0to1:  75  prev_bit_0_1to0:  0  prev_bit_1_1to0:  6
+THRESHOLD:  -2139  Total error:  132  0->1 error:  126  1->0 error:  6
+132
+prev_bit_0_0to1:  51  prev_bit_1_0to1:  75  prev_bit_0_1to0:  0  prev_bit_1_1to0:  6
+THRESHOLD:  -2122  Total error:  131  0->1 error:  125  1->0 error:  6
+131
+prev_bit_0_0to1:  51  prev_bit_1_0to1:  74  prev_bit_0_1to0:  0  prev_bit_1_1to0:  6
+THRESHOLD:  -2107  Total error:  130  0->1 error:  124  1->0 error:  6
+130
+prev_bit_0_0to1:  51  prev_bit_1_0to1:  73  prev_bit_0_1to0:  0  prev_bit_1_1to0:  6
+THRESHOLD:  -2090  Total error:  129  0->1 error:  123  1->0 error:  6
+129
+prev_bit_0_0to1:  50  prev_bit_1_0to1:  73  prev_bit_0_1to0:  0  prev_bit_1_1to0:  6
+THRESHOLD:  -2038  Total error:  128  0->1 error:  122  1->0 error:  6
+128
+prev_bit_0_0to1:  50  prev_bit_1_0to1:  72  prev_bit_0_1to0:  0  prev_bit_1_1to0:  6
+THRESHOLD:  -2037  Total error:  127  0->1 error:  121  1->0 error:  6
+127
+prev_bit_0_0to1:  49  prev_bit_1_0to1:  72  prev_bit_0_1to0:  0  prev_bit_1_1to0:  6
+THRESHOLD:  -2022  Total error:  126  0->1 error:  120  1->0 error:  6
+126
+prev_bit_0_0to1:  48  prev_bit_1_0to1:  72  prev_bit_0_1to0:  0  prev_bit_1_1to0:  6
+THRESHOLD:  -1974  Total error:  125  0->1 error:  119  1->0 error:  6
+125
+prev_bit_0_0to1:  47  prev_bit_1_0to1:  72  prev_bit_0_1to0:  0  prev_bit_1_1to0:  6
+THRESHOLD:  -1919  Total error:  123  0->1 error:  117  1->0 error:  6
+123
+prev_bit_0_0to1:  46  prev_bit_1_0to1:  71  prev_bit_0_1to0:  0  prev_bit_1_1to0:  6
+THRESHOLD:  -1914  Total error:  122  0->1 error:  116  1->0 error:  6
+122
+prev_bit_0_0to1:  46  prev_bit_1_0to1:  70  prev_bit_0_1to0:  0  prev_bit_1_1to0:  6
+THRESHOLD:  -1883  Total error:  121  0->1 error:  115  1->0 error:  6
+121
+prev_bit_0_0to1:  46  prev_bit_1_0to1:  69  prev_bit_0_1to0:  0  prev_bit_1_1to0:  6
+THRESHOLD:  -1863  Total error:  120  0->1 error:  114  1->0 error:  6
+120
+prev_bit_0_0to1:  45  prev_bit_1_0to1:  69  prev_bit_0_1to0:  0  prev_bit_1_1to0:  6
+THRESHOLD:  -1820  Total error:  119  0->1 error:  113  1->0 error:  6
+119
+prev_bit_0_0to1:  45  prev_bit_1_0to1:  68  prev_bit_0_1to0:  0  prev_bit_1_1to0:  6
+THRESHOLD:  -1708  Total error:  118  0->1 error:  110  1->0 error:  8
+118
+prev_bit_0_0to1:  44  prev_bit_1_0to1:  66  prev_bit_0_1to0:  0  prev_bit_1_1to0:  8
+THRESHOLD:  -1685  Total error:  117  0->1 error:  109  1->0 error:  8
+117
+prev_bit_0_0to1:  44  prev_bit_1_0to1:  65  prev_bit_0_1to0:  0  prev_bit_1_1to0:  8
+THRESHOLD:  -1681  Total error:  116  0->1 error:  108  1->0 error:  8
+116
+prev_bit_0_0to1:  44  prev_bit_1_0to1:  64  prev_bit_0_1to0:  0  prev_bit_1_1to0:  8
+THRESHOLD:  -1677  Total error:  115  0->1 error:  107  1->0 error:  8
+115
+prev_bit_0_0to1:  43  prev_bit_1_0to1:  64  prev_bit_0_1to0:  0  prev_bit_1_1to0:  8
+THRESHOLD:  -1502  Total error:  114  0->1 error:  98  1->0 error:  16
+114
+prev_bit_0_0to1:  38  prev_bit_1_0to1:  60  prev_bit_0_1to0:  0  prev_bit_1_1to0:  16
+THRESHOLD:  -1487  Total error:  113  0->1 error:  97  1->0 error:  16
+113
+prev_bit_0_0to1:  37  prev_bit_1_0to1:  60  prev_bit_0_1to0:  0  prev_bit_1_1to0:  16
+THRESHOLD:  -1469  Total error:  112  0->1 error:  95  1->0 error:  17
+112
+prev_bit_0_0to1:  36  prev_bit_1_0to1:  59  prev_bit_0_1to0:  0  prev_bit_1_1to0:  17
+THRESHOLD:  -1468  Total error:  111  0->1 error:  94  1->0 error:  17
+111
+prev_bit_0_0to1:  35  prev_bit_1_0to1:  59  prev_bit_0_1to0:  0  prev_bit_1_1to0:  17
+THRESHOLD:  -1436  Total error:  110  0->1 error:  93  1->0 error:  17
+110
+prev_bit_0_0to1:  35  prev_bit_1_0to1:  58  prev_bit_0_1to0:  0  prev_bit_1_1to0:  17
+THRESHOLD:  -1400  Total error:  109  0->1 error:  92  1->0 error:  17
+109
+prev_bit_0_0to1:  35  prev_bit_1_0to1:  57  prev_bit_0_1to0:  0  prev_bit_1_1to0:  17
+THRESHOLD:  -1356  Total error:  108  0->1 error:  90  1->0 error:  18
+108
+prev_bit_0_0to1:  34  prev_bit_1_0to1:  56  prev_bit_0_1to0:  0  prev_bit_1_1to0:  18
+THRESHOLD:  -1348  Total error:  107  0->1 error:  89  1->0 error:  18
+107
+prev_bit_0_0to1:  34  prev_bit_1_0to1:  55  prev_bit_0_1to0:  0  prev_bit_1_1to0:  18
+THRESHOLD:  -1328  Total error:  106  0->1 error:  88  1->0 error:  18
+106
+prev_bit_0_0to1:  33  prev_bit_1_0to1:  55  prev_bit_0_1to0:  0  prev_bit_1_1to0:  18
+THRESHOLD:  -1288  Total error:  103  0->1 error:  84  1->0 error:  19
+103
+prev_bit_0_0to1:  30  prev_bit_1_0to1:  54  prev_bit_0_1to0:  1  prev_bit_1_1to0:  18
+THRESHOLD:  -1273  Total error:  102  0->1 error:  83  1->0 error:  19
+102
+prev_bit_0_0to1:  29  prev_bit_1_0to1:  54  prev_bit_0_1to0:  1  prev_bit_1_1to0:  18
+THRESHOLD:  -1269  Total error:  101  0->1 error:  82  1->0 error:  19
+101
+prev_bit_0_0to1:  29  prev_bit_1_0to1:  53  prev_bit_0_1to0:  1  prev_bit_1_1to0:  18
+THRESHOLD:  -1199  Total error:  100  0->1 error:  77  1->0 error:  23
+100
+prev_bit_0_0to1:  27  prev_bit_1_0to1:  50  prev_bit_0_1to0:  2  prev_bit_1_1to0:  21
+THRESHOLD:  -1133  Total error:  99  0->1 error:  74  1->0 error:  25
+99
+prev_bit_0_0to1:  27  prev_bit_1_0to1:  47  prev_bit_0_1to0:  3  prev_bit_1_1to0:  22
+THRESHOLD:  -1129  Total error:  98  0->1 error:  73  1->0 error:  25
+98
+prev_bit_0_0to1:  27  prev_bit_1_0to1:  46  prev_bit_0_1to0:  3  prev_bit_1_1to0:  22
+THRESHOLD:  -1128  Total error:  97  0->1 error:  72  1->0 error:  25
+97
+prev_bit_0_0to1:  27  prev_bit_1_0to1:  45  prev_bit_0_1to0:  3  prev_bit_1_1to0:  22
+THRESHOLD:  -1084  Total error:  96  0->1 error:  71  1->0 error:  25
+96
+prev_bit_0_0to1:  27  prev_bit_1_0to1:  44  prev_bit_0_1to0:  3  prev_bit_1_1to0:  22
+THRESHOLD:  -1030  Total error:  95  0->1 error:  68  1->0 error:  27
+95
+prev_bit_0_0to1:  24  prev_bit_1_0to1:  44  prev_bit_0_1to0:  3  prev_bit_1_1to0:  24
+THRESHOLD:  -1005  Total error:  94  0->1 error:  67  1->0 error:  27
+94
+prev_bit_0_0to1:  23  prev_bit_1_0to1:  44  prev_bit_0_1to0:  3  prev_bit_1_1to0:  24
+THRESHOLD:  -1002  Total error:  93  0->1 error:  66  1->0 error:  27
+93
+prev_bit_0_0to1:  23  prev_bit_1_0to1:  43  prev_bit_0_1to0:  3  prev_bit_1_1to0:  24
+THRESHOLD:  -913  Total error:  92  0->1 error:  64  1->0 error:  28
+92
+prev_bit_0_0to1:  23  prev_bit_1_0to1:  41  prev_bit_0_1to0:  3  prev_bit_1_1to0:  25
+THRESHOLD:  -910  Total error:  91  0->1 error:  63  1->0 error:  28
+91
+prev_bit_0_0to1:  22  prev_bit_1_0to1:  41  prev_bit_0_1to0:  3  prev_bit_1_1to0:  25
+THRESHOLD:  -899  Total error:  90  0->1 error:  62  1->0 error:  28
+90
+prev_bit_0_0to1:  22  prev_bit_1_0to1:  40  prev_bit_0_1to0:  3  prev_bit_1_1to0:  25
+THRESHOLD:  -896  Total error:  89  0->1 error:  61  1->0 error:  28
+89
+prev_bit_0_0to1:  22  prev_bit_1_0to1:  39  prev_bit_0_1to0:  3  prev_bit_1_1to0:  25
+THRESHOLD:  -819  Total error:  88  0->1 error:  59  1->0 error:  29
+88
+prev_bit_0_0to1:  21  prev_bit_1_0to1:  38  prev_bit_0_1to0:  3  prev_bit_1_1to0:  26
+THRESHOLD:  -804  Total error:  87  0->1 error:  58  1->0 error:  29
+87
+prev_bit_0_0to1:  21  prev_bit_1_0to1:  37  prev_bit_0_1to0:  3  prev_bit_1_1to0:  26
+THRESHOLD:  -700  Total error:  86  0->1 error:  56  1->0 error:  30
+86
+prev_bit_0_0to1:  20  prev_bit_1_0to1:  36  prev_bit_0_1to0:  3  prev_bit_1_1to0:  27
+THRESHOLD:  -680  Total error:  85  0->1 error:  55  1->0 error:  30
+85
+prev_bit_0_0to1:  20  prev_bit_1_0to1:  35  prev_bit_0_1to0:  3  prev_bit_1_1to0:  27
+THRESHOLD:  -639  Total error:  84  0->1 error:  54  1->0 error:  30
+84
+prev_bit_0_0to1:  20  prev_bit_1_0to1:  34  prev_bit_0_1to0:  3  prev_bit_1_1to0:  27
+THRESHOLD:  -572  Total error:  83  0->1 error:  49  1->0 error:  34
+83
+prev_bit_0_0to1:  20  prev_bit_1_0to1:  29  prev_bit_0_1to0:  4  prev_bit_1_1to0:  30
+THRESHOLD:  -556  Total error:  82  0->1 error:  48  1->0 error:  34
+82
+prev_bit_0_0to1:  19  prev_bit_1_0to1:  29  prev_bit_0_1to0:  4  prev_bit_1_1to0:  30
+THRESHOLD:  -551  Total error:  81  0->1 error:  47  1->0 error:  34
+81
+prev_bit_0_0to1:  18  prev_bit_1_0to1:  29  prev_bit_0_1to0:  4  prev_bit_1_1to0:  30
+THRESHOLD:  -517  Total error:  80  0->1 error:  45  1->0 error:  35
+80
+prev_bit_0_0to1:  18  prev_bit_1_0to1:  27  prev_bit_0_1to0:  4  prev_bit_1_1to0:  31
+THRESHOLD:  -475  Total error:  79  0->1 error:  41  1->0 error:  38
+79
+prev_bit_0_0to1:  16  prev_bit_1_0to1:  25  prev_bit_0_1to0:  6  prev_bit_1_1to0:  32
+THRESHOLD:  -465  Total error:  78  0->1 error:  40  1->0 error:  38
+78
+prev_bit_0_0to1:  15  prev_bit_1_0to1:  25  prev_bit_0_1to0:  6  prev_bit_1_1to0:  32
+THRESHOLD:  -464  Total error:  77  0->1 error:  39  1->0 error:  38
+77
+prev_bit_0_0to1:  15  prev_bit_1_0to1:  24  prev_bit_0_1to0:  6  prev_bit_1_1to0:  32
+THRESHOLD:  -447  Total error:  76  0->1 error:  38  1->0 error:  38
+76
+prev_bit_0_0to1:  15  prev_bit_1_0to1:  23  prev_bit_0_1to0:  6  prev_bit_1_1to0:  32
+THRESHOLD:  -408  Total error:  75  0->1 error:  36  1->0 error:  39
+75
+prev_bit_0_0to1:  14  prev_bit_1_0to1:  22  prev_bit_0_1to0:  7  prev_bit_1_1to0:  32
+THRESHOLD:  27  Total error:  74  0->1 error:  20  1->0 error:  54
+74
+prev_bit_0_0to1:  8  prev_bit_1_0to1:  12  prev_bit_0_1to0:  12  prev_bit_1_1to0:  42
+extracted_data/output_819_1_1000_512.txt
+THRESHOLD:  -4538  Total error:  237  0->1 error:  236  1->0 error:  1
+237
+prev_bit_0_0to1:  108  prev_bit_1_0to1:  128  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -4491  Total error:  236  0->1 error:  235  1->0 error:  1
+236
+prev_bit_0_0to1:  107  prev_bit_1_0to1:  128  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -4344  Total error:  235  0->1 error:  233  1->0 error:  2
+235
+prev_bit_0_0to1:  106  prev_bit_1_0to1:  127  prev_bit_0_1to0:  0  prev_bit_1_1to0:  2
+THRESHOLD:  -4329  Total error:  234  0->1 error:  232  1->0 error:  2
+234
+prev_bit_0_0to1:  106  prev_bit_1_0to1:  126  prev_bit_0_1to0:  0  prev_bit_1_1to0:  2
+THRESHOLD:  -4197  Total error:  233  0->1 error:  230  1->0 error:  3
+233
+prev_bit_0_0to1:  105  prev_bit_1_0to1:  125  prev_bit_0_1to0:  1  prev_bit_1_1to0:  2
+THRESHOLD:  -4167  Total error:  232  0->1 error:  229  1->0 error:  3
+232
+prev_bit_0_0to1:  104  prev_bit_1_0to1:  125  prev_bit_0_1to0:  1  prev_bit_1_1to0:  2
+THRESHOLD:  -4100  Total error:  231  0->1 error:  228  1->0 error:  3
+231
+prev_bit_0_0to1:  104  prev_bit_1_0to1:  124  prev_bit_0_1to0:  1  prev_bit_1_1to0:  2
+THRESHOLD:  -4011  Total error:  230  0->1 error:  227  1->0 error:  3
+230
+prev_bit_0_0to1:  104  prev_bit_1_0to1:  123  prev_bit_0_1to0:  1  prev_bit_1_1to0:  2
+THRESHOLD:  -3894  Total error:  229  0->1 error:  226  1->0 error:  3
+229
+prev_bit_0_0to1:  103  prev_bit_1_0to1:  123  prev_bit_0_1to0:  1  prev_bit_1_1to0:  2
+THRESHOLD:  -3888  Total error:  228  0->1 error:  225  1->0 error:  3
+228
+prev_bit_0_0to1:  102  prev_bit_1_0to1:  123  prev_bit_0_1to0:  1  prev_bit_1_1to0:  2
+THRESHOLD:  -3879  Total error:  227  0->1 error:  224  1->0 error:  3
+227
+prev_bit_0_0to1:  101  prev_bit_1_0to1:  123  prev_bit_0_1to0:  1  prev_bit_1_1to0:  2
+THRESHOLD:  -3865  Total error:  226  0->1 error:  223  1->0 error:  3
+226
+prev_bit_0_0to1:  101  prev_bit_1_0to1:  122  prev_bit_0_1to0:  1  prev_bit_1_1to0:  2
+THRESHOLD:  -3838  Total error:  225  0->1 error:  222  1->0 error:  3
+225
+prev_bit_0_0to1:  101  prev_bit_1_0to1:  121  prev_bit_0_1to0:  1  prev_bit_1_1to0:  2
+THRESHOLD:  -3643  Total error:  224  0->1 error:  219  1->0 error:  5
+224
+prev_bit_0_0to1:  99  prev_bit_1_0to1:  120  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -3621  Total error:  223  0->1 error:  218  1->0 error:  5
+223
+prev_bit_0_0to1:  98  prev_bit_1_0to1:  120  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -3620  Total error:  222  0->1 error:  217  1->0 error:  5
+222
+prev_bit_0_0to1:  97  prev_bit_1_0to1:  120  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -3615  Total error:  221  0->1 error:  216  1->0 error:  5
+221
+prev_bit_0_0to1:  96  prev_bit_1_0to1:  120  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -3583  Total error:  219  0->1 error:  214  1->0 error:  5
+219
+prev_bit_0_0to1:  95  prev_bit_1_0to1:  119  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -3577  Total error:  218  0->1 error:  213  1->0 error:  5
+218
+prev_bit_0_0to1:  95  prev_bit_1_0to1:  118  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -3539  Total error:  217  0->1 error:  212  1->0 error:  5
+217
+prev_bit_0_0to1:  95  prev_bit_1_0to1:  117  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -3536  Total error:  216  0->1 error:  211  1->0 error:  5
+216
+prev_bit_0_0to1:  95  prev_bit_1_0to1:  116  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -3527  Total error:  215  0->1 error:  210  1->0 error:  5
+215
+prev_bit_0_0to1:  94  prev_bit_1_0to1:  116  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -3525  Total error:  214  0->1 error:  209  1->0 error:  5
+214
+prev_bit_0_0to1:  94  prev_bit_1_0to1:  115  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -3515  Total error:  213  0->1 error:  208  1->0 error:  5
+213
+prev_bit_0_0to1:  94  prev_bit_1_0to1:  114  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -3482  Total error:  212  0->1 error:  207  1->0 error:  5
+212
+prev_bit_0_0to1:  94  prev_bit_1_0to1:  113  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -3477  Total error:  211  0->1 error:  206  1->0 error:  5
+211
+prev_bit_0_0to1:  93  prev_bit_1_0to1:  113  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -3456  Total error:  210  0->1 error:  205  1->0 error:  5
+210
+prev_bit_0_0to1:  92  prev_bit_1_0to1:  113  prev_bit_0_1to0:  1  prev_bit_1_1to0:  4
+THRESHOLD:  -3328  Total error:  209  0->1 error:  202  1->0 error:  7
+209
+prev_bit_0_0to1:  91  prev_bit_1_0to1:  111  prev_bit_0_1to0:  2  prev_bit_1_1to0:  5
+THRESHOLD:  -3313  Total error:  208  0->1 error:  201  1->0 error:  7
+208
+prev_bit_0_0to1:  90  prev_bit_1_0to1:  111  prev_bit_0_1to0:  2  prev_bit_1_1to0:  5
+THRESHOLD:  -3272  Total error:  207  0->1 error:  200  1->0 error:  7
+207
+prev_bit_0_0to1:  90  prev_bit_1_0to1:  110  prev_bit_0_1to0:  2  prev_bit_1_1to0:  5
+THRESHOLD:  -3268  Total error:  206  0->1 error:  199  1->0 error:  7
+206
+prev_bit_0_0to1:  90  prev_bit_1_0to1:  109  prev_bit_0_1to0:  2  prev_bit_1_1to0:  5
+THRESHOLD:  -3235  Total error:  205  0->1 error:  198  1->0 error:  7
+205
+prev_bit_0_0to1:  89  prev_bit_1_0to1:  109  prev_bit_0_1to0:  2  prev_bit_1_1to0:  5
+THRESHOLD:  -3193  Total error:  204  0->1 error:  196  1->0 error:  8
+204
+prev_bit_0_0to1:  88  prev_bit_1_0to1:  108  prev_bit_0_1to0:  2  prev_bit_1_1to0:  6
+THRESHOLD:  -3176  Total error:  203  0->1 error:  194  1->0 error:  9
+203
+prev_bit_0_0to1:  87  prev_bit_1_0to1:  107  prev_bit_0_1to0:  3  prev_bit_1_1to0:  6
+THRESHOLD:  -3140  Total error:  202  0->1 error:  192  1->0 error:  10
+202
+prev_bit_0_0to1:  87  prev_bit_1_0to1:  105  prev_bit_0_1to0:  4  prev_bit_1_1to0:  6
+THRESHOLD:  -3139  Total error:  201  0->1 error:  191  1->0 error:  10
+201
+prev_bit_0_0to1:  87  prev_bit_1_0to1:  104  prev_bit_0_1to0:  4  prev_bit_1_1to0:  6
+THRESHOLD:  -3136  Total error:  200  0->1 error:  190  1->0 error:  10
+200
+prev_bit_0_0to1:  86  prev_bit_1_0to1:  104  prev_bit_0_1to0:  4  prev_bit_1_1to0:  6
+THRESHOLD:  -3100  Total error:  199  0->1 error:  189  1->0 error:  10
+199
+prev_bit_0_0to1:  86  prev_bit_1_0to1:  103  prev_bit_0_1to0:  4  prev_bit_1_1to0:  6
+THRESHOLD:  -3085  Total error:  198  0->1 error:  188  1->0 error:  10
+198
+prev_bit_0_0to1:  85  prev_bit_1_0to1:  103  prev_bit_0_1to0:  4  prev_bit_1_1to0:  6
+THRESHOLD:  -3044  Total error:  197  0->1 error:  187  1->0 error:  10
+197
+prev_bit_0_0to1:  85  prev_bit_1_0to1:  102  prev_bit_0_1to0:  4  prev_bit_1_1to0:  6
+THRESHOLD:  -2977  Total error:  196  0->1 error:  185  1->0 error:  11
+196
+prev_bit_0_0to1:  83  prev_bit_1_0to1:  102  prev_bit_0_1to0:  4  prev_bit_1_1to0:  7
+THRESHOLD:  -2948  Total error:  195  0->1 error:  184  1->0 error:  11
+195
+prev_bit_0_0to1:  82  prev_bit_1_0to1:  102  prev_bit_0_1to0:  4  prev_bit_1_1to0:  7
+THRESHOLD:  -2934  Total error:  194  0->1 error:  183  1->0 error:  11
+194
+prev_bit_0_0to1:  82  prev_bit_1_0to1:  101  prev_bit_0_1to0:  4  prev_bit_1_1to0:  7
+THRESHOLD:  -2919  Total error:  193  0->1 error:  182  1->0 error:  11
+193
+prev_bit_0_0to1:  82  prev_bit_1_0to1:  100  prev_bit_0_1to0:  4  prev_bit_1_1to0:  7
+THRESHOLD:  -2877  Total error:  192  0->1 error:  180  1->0 error:  12
+192
+prev_bit_0_0to1:  81  prev_bit_1_0to1:  99  prev_bit_0_1to0:  4  prev_bit_1_1to0:  8
+THRESHOLD:  -2824  Total error:  191  0->1 error:  177  1->0 error:  14
+191
+prev_bit_0_0to1:  81  prev_bit_1_0to1:  96  prev_bit_0_1to0:  4  prev_bit_1_1to0:  10
+THRESHOLD:  -2808  Total error:  190  0->1 error:  176  1->0 error:  14
+190
+prev_bit_0_0to1:  80  prev_bit_1_0to1:  96  prev_bit_0_1to0:  4  prev_bit_1_1to0:  10
+THRESHOLD:  -2744  Total error:  189  0->1 error:  174  1->0 error:  15
+189
+prev_bit_0_0to1:  80  prev_bit_1_0to1:  94  prev_bit_0_1to0:  5  prev_bit_1_1to0:  10
+THRESHOLD:  -2743  Total error:  188  0->1 error:  173  1->0 error:  15
+188
+prev_bit_0_0to1:  80  prev_bit_1_0to1:  93  prev_bit_0_1to0:  5  prev_bit_1_1to0:  10
+THRESHOLD:  -2687  Total error:  187  0->1 error:  172  1->0 error:  15
+187
+prev_bit_0_0to1:  80  prev_bit_1_0to1:  92  prev_bit_0_1to0:  5  prev_bit_1_1to0:  10
+THRESHOLD:  -2684  Total error:  186  0->1 error:  171  1->0 error:  15
+186
+prev_bit_0_0to1:  79  prev_bit_1_0to1:  92  prev_bit_0_1to0:  5  prev_bit_1_1to0:  10
+THRESHOLD:  -2600  Total error:  185  0->1 error:  169  1->0 error:  16
+185
+prev_bit_0_0to1:  79  prev_bit_1_0to1:  90  prev_bit_0_1to0:  5  prev_bit_1_1to0:  11
+THRESHOLD:  -2591  Total error:  184  0->1 error:  168  1->0 error:  16
+184
+prev_bit_0_0to1:  78  prev_bit_1_0to1:  90  prev_bit_0_1to0:  5  prev_bit_1_1to0:  11
+THRESHOLD:  -2556  Total error:  183  0->1 error:  166  1->0 error:  17
+183
+prev_bit_0_0to1:  77  prev_bit_1_0to1:  89  prev_bit_0_1to0:  5  prev_bit_1_1to0:  12
+THRESHOLD:  -2545  Total error:  182  0->1 error:  165  1->0 error:  17
+182
+prev_bit_0_0to1:  76  prev_bit_1_0to1:  89  prev_bit_0_1to0:  5  prev_bit_1_1to0:  12
+THRESHOLD:  -2541  Total error:  181  0->1 error:  164  1->0 error:  17
+181
+prev_bit_0_0to1:  76  prev_bit_1_0to1:  88  prev_bit_0_1to0:  5  prev_bit_1_1to0:  12
+THRESHOLD:  -2504  Total error:  180  0->1 error:  163  1->0 error:  17
+180
+prev_bit_0_0to1:  75  prev_bit_1_0to1:  88  prev_bit_0_1to0:  5  prev_bit_1_1to0:  12
+THRESHOLD:  -2487  Total error:  179  0->1 error:  162  1->0 error:  17
+179
+prev_bit_0_0to1:  75  prev_bit_1_0to1:  87  prev_bit_0_1to0:  5  prev_bit_1_1to0:  12
+THRESHOLD:  -2430  Total error:  178  0->1 error:  161  1->0 error:  17
+178
+prev_bit_0_0to1:  75  prev_bit_1_0to1:  86  prev_bit_0_1to0:  5  prev_bit_1_1to0:  12
+THRESHOLD:  -2429  Total error:  177  0->1 error:  160  1->0 error:  17
+177
+prev_bit_0_0to1:  75  prev_bit_1_0to1:  85  prev_bit_0_1to0:  5  prev_bit_1_1to0:  12
+THRESHOLD:  -2412  Total error:  176  0->1 error:  159  1->0 error:  17
+176
+prev_bit_0_0to1:  74  prev_bit_1_0to1:  85  prev_bit_0_1to0:  5  prev_bit_1_1to0:  12
+THRESHOLD:  -2386  Total error:  175  0->1 error:  157  1->0 error:  18
+175
+prev_bit_0_0to1:  72  prev_bit_1_0to1:  85  prev_bit_0_1to0:  5  prev_bit_1_1to0:  13
+THRESHOLD:  -2364  Total error:  174  0->1 error:  156  1->0 error:  18
+174
+prev_bit_0_0to1:  71  prev_bit_1_0to1:  85  prev_bit_0_1to0:  5  prev_bit_1_1to0:  13
+THRESHOLD:  -2345  Total error:  173  0->1 error:  155  1->0 error:  18
+173
+prev_bit_0_0to1:  70  prev_bit_1_0to1:  85  prev_bit_0_1to0:  5  prev_bit_1_1to0:  13
+THRESHOLD:  -2277  Total error:  172  0->1 error:  152  1->0 error:  20
+172
+prev_bit_0_0to1:  68  prev_bit_1_0to1:  84  prev_bit_0_1to0:  5  prev_bit_1_1to0:  15
+THRESHOLD:  -2269  Total error:  171  0->1 error:  151  1->0 error:  20
+171
+prev_bit_0_0to1:  67  prev_bit_1_0to1:  84  prev_bit_0_1to0:  5  prev_bit_1_1to0:  15
+THRESHOLD:  -2266  Total error:  170  0->1 error:  150  1->0 error:  20
+170
+prev_bit_0_0to1:  66  prev_bit_1_0to1:  84  prev_bit_0_1to0:  5  prev_bit_1_1to0:  15
+THRESHOLD:  -2234  Total error:  169  0->1 error:  149  1->0 error:  20
+169
+prev_bit_0_0to1:  66  prev_bit_1_0to1:  83  prev_bit_0_1to0:  5  prev_bit_1_1to0:  15
+THRESHOLD:  -2094  Total error:  168  0->1 error:  147  1->0 error:  21
+168
+prev_bit_0_0to1:  66  prev_bit_1_0to1:  81  prev_bit_0_1to0:  6  prev_bit_1_1to0:  15
+THRESHOLD:  -2006  Total error:  167  0->1 error:  145  1->0 error:  22
+167
+prev_bit_0_0to1:  66  prev_bit_1_0to1:  79  prev_bit_0_1to0:  7  prev_bit_1_1to0:  15
+THRESHOLD:  -1997  Total error:  166  0->1 error:  144  1->0 error:  22
+166
+prev_bit_0_0to1:  66  prev_bit_1_0to1:  78  prev_bit_0_1to0:  7  prev_bit_1_1to0:  15
+THRESHOLD:  -1963  Total error:  165  0->1 error:  143  1->0 error:  22
+165
+prev_bit_0_0to1:  65  prev_bit_1_0to1:  78  prev_bit_0_1to0:  7  prev_bit_1_1to0:  15
+THRESHOLD:  -1962  Total error:  164  0->1 error:  142  1->0 error:  22
+164
+prev_bit_0_0to1:  64  prev_bit_1_0to1:  78  prev_bit_0_1to0:  7  prev_bit_1_1to0:  15
+THRESHOLD:  -1960  Total error:  163  0->1 error:  141  1->0 error:  22
+163
+prev_bit_0_0to1:  63  prev_bit_1_0to1:  78  prev_bit_0_1to0:  7  prev_bit_1_1to0:  15
+THRESHOLD:  -1925  Total error:  162  0->1 error:  139  1->0 error:  23
+162
+prev_bit_0_0to1:  62  prev_bit_1_0to1:  77  prev_bit_0_1to0:  7  prev_bit_1_1to0:  16
+THRESHOLD:  -1920  Total error:  161  0->1 error:  138  1->0 error:  23
+161
+prev_bit_0_0to1:  61  prev_bit_1_0to1:  77  prev_bit_0_1to0:  7  prev_bit_1_1to0:  16
+THRESHOLD:  -1909  Total error:  160  0->1 error:  136  1->0 error:  24
+160
+prev_bit_0_0to1:  59  prev_bit_1_0to1:  77  prev_bit_0_1to0:  7  prev_bit_1_1to0:  17
+THRESHOLD:  -1892  Total error:  159  0->1 error:  135  1->0 error:  24
+159
+prev_bit_0_0to1:  59  prev_bit_1_0to1:  76  prev_bit_0_1to0:  7  prev_bit_1_1to0:  17
+THRESHOLD:  -1806  Total error:  158  0->1 error:  131  1->0 error:  27
+158
+prev_bit_0_0to1:  56  prev_bit_1_0to1:  75  prev_bit_0_1to0:  7  prev_bit_1_1to0:  20
+THRESHOLD:  -1742  Total error:  157  0->1 error:  130  1->0 error:  27
+157
+prev_bit_0_0to1:  56  prev_bit_1_0to1:  74  prev_bit_0_1to0:  7  prev_bit_1_1to0:  20
+THRESHOLD:  -1717  Total error:  156  0->1 error:  128  1->0 error:  28
+156
+prev_bit_0_0to1:  56  prev_bit_1_0to1:  72  prev_bit_0_1to0:  7  prev_bit_1_1to0:  21
+THRESHOLD:  -1700  Total error:  155  0->1 error:  127  1->0 error:  28
+155
+prev_bit_0_0to1:  56  prev_bit_1_0to1:  71  prev_bit_0_1to0:  7  prev_bit_1_1to0:  21
+THRESHOLD:  -1685  Total error:  154  0->1 error:  126  1->0 error:  28
+154
+prev_bit_0_0to1:  55  prev_bit_1_0to1:  71  prev_bit_0_1to0:  7  prev_bit_1_1to0:  21
+THRESHOLD:  -1674  Total error:  153  0->1 error:  125  1->0 error:  28
+153
+prev_bit_0_0to1:  54  prev_bit_1_0to1:  71  prev_bit_0_1to0:  7  prev_bit_1_1to0:  21
+THRESHOLD:  -1669  Total error:  152  0->1 error:  124  1->0 error:  28
+152
+prev_bit_0_0to1:  53  prev_bit_1_0to1:  71  prev_bit_0_1to0:  7  prev_bit_1_1to0:  21
+THRESHOLD:  -1614  Total error:  151  0->1 error:  121  1->0 error:  30
+151
+prev_bit_0_0to1:  51  prev_bit_1_0to1:  70  prev_bit_0_1to0:  7  prev_bit_1_1to0:  23
+THRESHOLD:  -1613  Total error:  150  0->1 error:  120  1->0 error:  30
+150
+prev_bit_0_0to1:  51  prev_bit_1_0to1:  69  prev_bit_0_1to0:  7  prev_bit_1_1to0:  23
+THRESHOLD:  -1599  Total error:  149  0->1 error:  119  1->0 error:  30
+149
+prev_bit_0_0to1:  50  prev_bit_1_0to1:  69  prev_bit_0_1to0:  7  prev_bit_1_1to0:  23
+THRESHOLD:  -1581  Total error:  148  0->1 error:  118  1->0 error:  30
+148
+prev_bit_0_0to1:  49  prev_bit_1_0to1:  69  prev_bit_0_1to0:  7  prev_bit_1_1to0:  23
+THRESHOLD:  -1515  Total error:  146  0->1 error:  115  1->0 error:  31
+146
+prev_bit_0_0to1:  48  prev_bit_1_0to1:  67  prev_bit_0_1to0:  7  prev_bit_1_1to0:  24
+THRESHOLD:  -1463  Total error:  145  0->1 error:  111  1->0 error:  34
+145
+prev_bit_0_0to1:  47  prev_bit_1_0to1:  64  prev_bit_0_1to0:  9  prev_bit_1_1to0:  25
+THRESHOLD:  -1311  Total error:  144  0->1 error:  108  1->0 error:  36
+144
+prev_bit_0_0to1:  47  prev_bit_1_0to1:  61  prev_bit_0_1to0:  10  prev_bit_1_1to0:  26
+THRESHOLD:  -1309  Total error:  143  0->1 error:  107  1->0 error:  36
+143
+prev_bit_0_0to1:  47  prev_bit_1_0to1:  60  prev_bit_0_1to0:  10  prev_bit_1_1to0:  26
+THRESHOLD:  -1283  Total error:  142  0->1 error:  106  1->0 error:  36
+142
+prev_bit_0_0to1:  46  prev_bit_1_0to1:  60  prev_bit_0_1to0:  10  prev_bit_1_1to0:  26
+THRESHOLD:  -1275  Total error:  141  0->1 error:  105  1->0 error:  36
+141
+prev_bit_0_0to1:  45  prev_bit_1_0to1:  60  prev_bit_0_1to0:  10  prev_bit_1_1to0:  26
+THRESHOLD:  -1161  Total error:  140  0->1 error:  101  1->0 error:  39
+140
+prev_bit_0_0to1:  44  prev_bit_1_0to1:  57  prev_bit_0_1to0:  10  prev_bit_1_1to0:  29
+THRESHOLD:  -1156  Total error:  139  0->1 error:  100  1->0 error:  39
+139
+prev_bit_0_0to1:  43  prev_bit_1_0to1:  57  prev_bit_0_1to0:  10  prev_bit_1_1to0:  29
+THRESHOLD:  -1139  Total error:  138  0->1 error:  99  1->0 error:  39
+138
+prev_bit_0_0to1:  43  prev_bit_1_0to1:  56  prev_bit_0_1to0:  10  prev_bit_1_1to0:  29
+THRESHOLD:  -1125  Total error:  137  0->1 error:  98  1->0 error:  39
+137
+prev_bit_0_0to1:  42  prev_bit_1_0to1:  56  prev_bit_0_1to0:  10  prev_bit_1_1to0:  29
+THRESHOLD:  -1122  Total error:  136  0->1 error:  97  1->0 error:  39
+136
+prev_bit_0_0to1:  41  prev_bit_1_0to1:  56  prev_bit_0_1to0:  10  prev_bit_1_1to0:  29
+THRESHOLD:  -1112  Total error:  135  0->1 error:  96  1->0 error:  39
+135
+prev_bit_0_0to1:  41  prev_bit_1_0to1:  55  prev_bit_0_1to0:  10  prev_bit_1_1to0:  29
+THRESHOLD:  -1111  Total error:  134  0->1 error:  95  1->0 error:  39
+134
+prev_bit_0_0to1:  40  prev_bit_1_0to1:  55  prev_bit_0_1to0:  10  prev_bit_1_1to0:  29
+THRESHOLD:  -1108  Total error:  133  0->1 error:  94  1->0 error:  39
+133
+prev_bit_0_0to1:  39  prev_bit_1_0to1:  55  prev_bit_0_1to0:  10  prev_bit_1_1to0:  29
+THRESHOLD:  -1051  Total error:  132  0->1 error:  93  1->0 error:  39
+132
+prev_bit_0_0to1:  38  prev_bit_1_0to1:  55  prev_bit_0_1to0:  10  prev_bit_1_1to0:  29
+THRESHOLD:  -952  Total error:  131  0->1 error:  90  1->0 error:  41
+131
+prev_bit_0_0to1:  36  prev_bit_1_0to1:  54  prev_bit_0_1to0:  11  prev_bit_1_1to0:  30
+THRESHOLD:  -900  Total error:  130  0->1 error:  89  1->0 error:  41
+130
+prev_bit_0_0to1:  35  prev_bit_1_0to1:  54  prev_bit_0_1to0:  11  prev_bit_1_1to0:  30
+THRESHOLD:  -679  Total error:  129  0->1 error:  83  1->0 error:  46
+129
+prev_bit_0_0to1:  33  prev_bit_1_0to1:  50  prev_bit_0_1to0:  13  prev_bit_1_1to0:  33
+THRESHOLD:  -667  Total error:  128  0->1 error:  82  1->0 error:  46
+128
+prev_bit_0_0to1:  33  prev_bit_1_0to1:  49  prev_bit_0_1to0:  13  prev_bit_1_1to0:  33
+THRESHOLD:  -661  Total error:  127  0->1 error:  81  1->0 error:  46
+127
+prev_bit_0_0to1:  33  prev_bit_1_0to1:  48  prev_bit_0_1to0:  13  prev_bit_1_1to0:  33
+THRESHOLD:  -418  Total error:  126  0->1 error:  70  1->0 error:  56
+126
+prev_bit_0_0to1:  26  prev_bit_1_0to1:  44  prev_bit_0_1to0:  17  prev_bit_1_1to0:  39
+THRESHOLD:  -375  Total error:  125  0->1 error:  68  1->0 error:  57
+125
+prev_bit_0_0to1:  25  prev_bit_1_0to1:  43  prev_bit_0_1to0:  17  prev_bit_1_1to0:  40
+THRESHOLD:  -186  Total error:  124  0->1 error:  63  1->0 error:  61
+124
+prev_bit_0_0to1:  23  prev_bit_1_0to1:  40  prev_bit_0_1to0:  19  prev_bit_1_1to0:  42
+THRESHOLD:  -181  Total error:  123  0->1 error:  62  1->0 error:  61
+123
+prev_bit_0_0to1:  23  prev_bit_1_0to1:  39  prev_bit_0_1to0:  19  prev_bit_1_1to0:  42
+THRESHOLD:  -133  Total error:  122  0->1 error:  61  1->0 error:  61
+122
+prev_bit_0_0to1:  22  prev_bit_1_0to1:  39  prev_bit_0_1to0:  19  prev_bit_1_1to0:  42
+extracted_data/output_409_1_1000_512.txt
+THRESHOLD:  -8086  Total error:  262  0->1 error:  261  1->0 error:  1
+262
+prev_bit_0_0to1:  119  prev_bit_1_0to1:  142  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -7886  Total error:  261  0->1 error:  260  1->0 error:  1
+261
+prev_bit_0_0to1:  118  prev_bit_1_0to1:  142  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -7355  Total error:  260  0->1 error:  259  1->0 error:  1
+260
+prev_bit_0_0to1:  117  prev_bit_1_0to1:  142  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -6835  Total error:  259  0->1 error:  258  1->0 error:  1
+259
+prev_bit_0_0to1:  116  prev_bit_1_0to1:  142  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -6607  Total error:  258  0->1 error:  257  1->0 error:  1
+258
+prev_bit_0_0to1:  116  prev_bit_1_0to1:  141  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -6560  Total error:  257  0->1 error:  256  1->0 error:  1
+257
+prev_bit_0_0to1:  116  prev_bit_1_0to1:  140  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -6376  Total error:  256  0->1 error:  255  1->0 error:  1
+256
+prev_bit_0_0to1:  115  prev_bit_1_0to1:  140  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -6266  Total error:  255  0->1 error:  254  1->0 error:  1
+255
+prev_bit_0_0to1:  114  prev_bit_1_0to1:  140  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -6241  Total error:  254  0->1 error:  253  1->0 error:  1
+254
+prev_bit_0_0to1:  113  prev_bit_1_0to1:  140  prev_bit_0_1to0:  0  prev_bit_1_1to0:  1
+THRESHOLD:  -5566  Total error:  253  0->1 error:  250  1->0 error:  3
+253
+prev_bit_0_0to1:  112  prev_bit_1_0to1:  138  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -5337  Total error:  252  0->1 error:  249  1->0 error:  3
+252
+prev_bit_0_0to1:  111  prev_bit_1_0to1:  138  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -5278  Total error:  251  0->1 error:  248  1->0 error:  3
+251
+prev_bit_0_0to1:  110  prev_bit_1_0to1:  138  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -5244  Total error:  250  0->1 error:  247  1->0 error:  3
+250
+prev_bit_0_0to1:  109  prev_bit_1_0to1:  138  prev_bit_0_1to0:  0  prev_bit_1_1to0:  3
+THRESHOLD:  -4916  Total error:  249  0->1 error:  244  1->0 error:  5
+249
+prev_bit_0_0to1:  107  prev_bit_1_0to1:  137  prev_bit_0_1to0:  0  prev_bit_1_1to0:  5
+THRESHOLD:  -4887  Total error:  248  0->1 error:  243  1->0 error:  5
+248
+prev_bit_0_0to1:  107  prev_bit_1_0to1:  136  prev_bit_0_1to0:  0  prev_bit_1_1to0:  5
+THRESHOLD:  -4838  Total error:  247  0->1 error:  242  1->0 error:  5
+247
+prev_bit_0_0to1:  107  prev_bit_1_0to1:  135  prev_bit_0_1to0:  0  prev_bit_1_1to0:  5
+THRESHOLD:  -4730  Total error:  246  0->1 error:  241  1->0 error:  5
+246
+prev_bit_0_0to1:  106  prev_bit_1_0to1:  135  prev_bit_0_1to0:  0  prev_bit_1_1to0:  5
+THRESHOLD:  -4654  Total error:  245  0->1 error:  240  1->0 error:  5
+245
+prev_bit_0_0to1:  105  prev_bit_1_0to1:  135  prev_bit_0_1to0:  0  prev_bit_1_1to0:  5
+THRESHOLD:  -4645  Total error:  244  0->1 error:  239  1->0 error:  5
+244
+prev_bit_0_0to1:  105  prev_bit_1_0to1:  134  prev_bit_0_1to0:  0  prev_bit_1_1to0:  5
+THRESHOLD:  -4616  Total error:  243  0->1 error:  238  1->0 error:  5
+243
+prev_bit_0_0to1:  105  prev_bit_1_0to1:  133  prev_bit_0_1to0:  0  prev_bit_1_1to0:  5
+THRESHOLD:  -4449  Total error:  242  0->1 error:  237  1->0 error:  5
+242
+prev_bit_0_0to1:  105  prev_bit_1_0to1:  132  prev_bit_0_1to0:  0  prev_bit_1_1to0:  5
+THRESHOLD:  -4441  Total error:  241  0->1 error:  236  1->0 error:  5
+241
+prev_bit_0_0to1:  105  prev_bit_1_0to1:  131  prev_bit_0_1to0:  0  prev_bit_1_1to0:  5
+THRESHOLD:  -4253  Total error:  240  0->1 error:  235  1->0 error:  5
+240
+prev_bit_0_0to1:  105  prev_bit_1_0to1:  130  prev_bit_0_1to0:  0  prev_bit_1_1to0:  5
+THRESHOLD:  -4247  Total error:  239  0->1 error:  234  1->0 error:  5
+239
+prev_bit_0_0to1:  105  prev_bit_1_0to1:  129  prev_bit_0_1to0:  0  prev_bit_1_1to0:  5
+THRESHOLD:  -4224  Total error:  238  0->1 error:  233  1->0 error:  5
+238
+prev_bit_0_0to1:  104  prev_bit_1_0to1:  129  prev_bit_0_1to0:  0  prev_bit_1_1to0:  5
+THRESHOLD:  -4047  Total error:  237  0->1 error:  232  1->0 error:  5
+237
+prev_bit_0_0to1:  104  prev_bit_1_0to1:  128  prev_bit_0_1to0:  0  prev_bit_1_1to0:  5
+THRESHOLD:  -3405  Total error:  236  0->1 error:  225  1->0 error:  11
+236
+prev_bit_0_0to1:  100  prev_bit_1_0to1:  125  prev_bit_0_1to0:  2  prev_bit_1_1to0:  9
+THRESHOLD:  -3227  Total error:  235  0->1 error:  223  1->0 error:  12
+235
+prev_bit_0_0to1:  99  prev_bit_1_0to1:  124  prev_bit_0_1to0:  3  prev_bit_1_1to0:  9
+THRESHOLD:  -3115  Total error:  234  0->1 error:  221  1->0 error:  13
+234
+prev_bit_0_0to1:  99  prev_bit_1_0to1:  122  prev_bit_0_1to0:  3  prev_bit_1_1to0:  10
+THRESHOLD:  -2975  Total error:  233  0->1 error:  218  1->0 error:  15
+233
+prev_bit_0_0to1:  99  prev_bit_1_0to1:  119  prev_bit_0_1to0:  5  prev_bit_1_1to0:  10
+THRESHOLD:  -2932  Total error:  232  0->1 error:  217  1->0 error:  15
+232
+prev_bit_0_0to1:  98  prev_bit_1_0to1:  119  prev_bit_0_1to0:  5  prev_bit_1_1to0:  10
+THRESHOLD:  -2912  Total error:  231  0->1 error:  216  1->0 error:  15
+231
+prev_bit_0_0to1:  98  prev_bit_1_0to1:  118  prev_bit_0_1to0:  5  prev_bit_1_1to0:  10
+THRESHOLD:  -2807  Total error:  230  0->1 error:  214  1->0 error:  16
+230
+prev_bit_0_0to1:  98  prev_bit_1_0to1:  116  prev_bit_0_1to0:  5  prev_bit_1_1to0:  11
+THRESHOLD:  -2799  Total error:  229  0->1 error:  213  1->0 error:  16
+229
+prev_bit_0_0to1:  98  prev_bit_1_0to1:  115  prev_bit_0_1to0:  5  prev_bit_1_1to0:  11
+THRESHOLD:  -2791  Total error:  228  0->1 error:  212  1->0 error:  16
+228
+prev_bit_0_0to1:  98  prev_bit_1_0to1:  114  prev_bit_0_1to0:  5  prev_bit_1_1to0:  11
+THRESHOLD:  -2720  Total error:  227  0->1 error:  211  1->0 error:  16
+227
+prev_bit_0_0to1:  97  prev_bit_1_0to1:  114  prev_bit_0_1to0:  5  prev_bit_1_1to0:  11
+THRESHOLD:  -2695  Total error:  226  0->1 error:  209  1->0 error:  17
+226
+prev_bit_0_0to1:  96  prev_bit_1_0to1:  113  prev_bit_0_1to0:  5  prev_bit_1_1to0:  12
+THRESHOLD:  -2694  Total error:  225  0->1 error:  208  1->0 error:  17
+225
+prev_bit_0_0to1:  95  prev_bit_1_0to1:  113  prev_bit_0_1to0:  5  prev_bit_1_1to0:  12
+THRESHOLD:  -2539  Total error:  224  0->1 error:  204  1->0 error:  20
+224
+prev_bit_0_0to1:  92  prev_bit_1_0to1:  112  prev_bit_0_1to0:  7  prev_bit_1_1to0:  13
+THRESHOLD:  -2519  Total error:  223  0->1 error:  202  1->0 error:  21
+223
+prev_bit_0_0to1:  90  prev_bit_1_0to1:  112  prev_bit_0_1to0:  8  prev_bit_1_1to0:  13
+THRESHOLD:  -2497  Total error:  222  0->1 error:  200  1->0 error:  22
+222
+prev_bit_0_0to1:  89  prev_bit_1_0to1:  111  prev_bit_0_1to0:  9  prev_bit_1_1to0:  13
+THRESHOLD:  -2489  Total error:  221  0->1 error:  199  1->0 error:  22
+221
+prev_bit_0_0to1:  89  prev_bit_1_0to1:  110  prev_bit_0_1to0:  9  prev_bit_1_1to0:  13
+THRESHOLD:  -2465  Total error:  220  0->1 error:  197  1->0 error:  23
+220
+prev_bit_0_0to1:  88  prev_bit_1_0to1:  109  prev_bit_0_1to0:  9  prev_bit_1_1to0:  14
+THRESHOLD:  -2322  Total error:  219  0->1 error:  193  1->0 error:  26
+219
+prev_bit_0_0to1:  87  prev_bit_1_0to1:  106  prev_bit_0_1to0:  10  prev_bit_1_1to0:  16
+THRESHOLD:  -2319  Total error:  218  0->1 error:  192  1->0 error:  26
+218
+prev_bit_0_0to1:  87  prev_bit_1_0to1:  105  prev_bit_0_1to0:  10  prev_bit_1_1to0:  16
+THRESHOLD:  -2317  Total error:  217  0->1 error:  191  1->0 error:  26
+217
+prev_bit_0_0to1:  87  prev_bit_1_0to1:  104  prev_bit_0_1to0:  10  prev_bit_1_1to0:  16
+THRESHOLD:  -2313  Total error:  216  0->1 error:  190  1->0 error:  26
+216
+prev_bit_0_0to1:  86  prev_bit_1_0to1:  104  prev_bit_0_1to0:  10  prev_bit_1_1to0:  16
+THRESHOLD:  -2286  Total error:  215  0->1 error:  189  1->0 error:  26
+215
+prev_bit_0_0to1:  86  prev_bit_1_0to1:  103  prev_bit_0_1to0:  10  prev_bit_1_1to0:  16
+THRESHOLD:  -2280  Total error:  214  0->1 error:  188  1->0 error:  26
+214
+prev_bit_0_0to1:  86  prev_bit_1_0to1:  102  prev_bit_0_1to0:  10  prev_bit_1_1to0:  16
+THRESHOLD:  -2255  Total error:  213  0->1 error:  187  1->0 error:  26
+213
+prev_bit_0_0to1:  85  prev_bit_1_0to1:  102  prev_bit_0_1to0:  10  prev_bit_1_1to0:  16
+THRESHOLD:  -2217  Total error:  212  0->1 error:  186  1->0 error:  26
+212
+prev_bit_0_0to1:  85  prev_bit_1_0to1:  101  prev_bit_0_1to0:  10  prev_bit_1_1to0:  16
+THRESHOLD:  -2213  Total error:  211  0->1 error:  185  1->0 error:  26
+211
+prev_bit_0_0to1:  84  prev_bit_1_0to1:  101  prev_bit_0_1to0:  10  prev_bit_1_1to0:  16
+THRESHOLD:  -2093  Total error:  210  0->1 error:  181  1->0 error:  29
+210
+prev_bit_0_0to1:  83  prev_bit_1_0to1:  98  prev_bit_0_1to0:  13  prev_bit_1_1to0:  16
+THRESHOLD:  -2058  Total error:  209  0->1 error:  180  1->0 error:  29
+209
+prev_bit_0_0to1:  83  prev_bit_1_0to1:  97  prev_bit_0_1to0:  13  prev_bit_1_1to0:  16
+THRESHOLD:  -2053  Total error:  208  0->1 error:  179  1->0 error:  29
+208
+prev_bit_0_0to1:  83  prev_bit_1_0to1:  96  prev_bit_0_1to0:  13  prev_bit_1_1to0:  16
+THRESHOLD:  -2045  Total error:  207  0->1 error:  178  1->0 error:  29
+207
+prev_bit_0_0to1:  82  prev_bit_1_0to1:  96  prev_bit_0_1to0:  13  prev_bit_1_1to0:  16
+THRESHOLD:  -2040  Total error:  206  0->1 error:  177  1->0 error:  29
+206
+prev_bit_0_0to1:  81  prev_bit_1_0to1:  96  prev_bit_0_1to0:  13  prev_bit_1_1to0:  16
+THRESHOLD:  -1534  Total error:  205  0->1 error:  159  1->0 error:  46
+205
+prev_bit_0_0to1:  70  prev_bit_1_0to1:  89  prev_bit_0_1to0:  21  prev_bit_1_1to0:  25
+THRESHOLD:  -1498  Total error:  204  0->1 error:  158  1->0 error:  46
+204
+prev_bit_0_0to1:  69  prev_bit_1_0to1:  89  prev_bit_0_1to0:  21  prev_bit_1_1to0:  25
+THRESHOLD:  -1477  Total error:  203  0->1 error:  156  1->0 error:  47
+203
+prev_bit_0_0to1:  68  prev_bit_1_0to1:  88  prev_bit_0_1to0:  22  prev_bit_1_1to0:  25
+THRESHOLD:  -1456  Total error:  202  0->1 error:  154  1->0 error:  48
+202
+prev_bit_0_0to1:  66  prev_bit_1_0to1:  88  prev_bit_0_1to0:  22  prev_bit_1_1to0:  26
+THRESHOLD:  -1421  Total error:  201  0->1 error:  151  1->0 error:  50
+201
+prev_bit_0_0to1:  64  prev_bit_1_0to1:  87  prev_bit_0_1to0:  23  prev_bit_1_1to0:  27
+THRESHOLD:  -1384  Total error:  200  0->1 error:  150  1->0 error:  50
+200
+prev_bit_0_0to1:  64  prev_bit_1_0to1:  86  prev_bit_0_1to0:  23  prev_bit_1_1to0:  27
+THRESHOLD:  -1362  Total error:  199  0->1 error:  149  1->0 error:  50
+199
+prev_bit_0_0to1:  63  prev_bit_1_0to1:  86  prev_bit_0_1to0:  23  prev_bit_1_1to0:  27
+THRESHOLD:  -1304  Total error:  198  0->1 error:  146  1->0 error:  52
+198
+prev_bit_0_0to1:  63  prev_bit_1_0to1:  83  prev_bit_0_1to0:  24  prev_bit_1_1to0:  28
+THRESHOLD:  -1300  Total error:  197  0->1 error:  145  1->0 error:  52
+197
+prev_bit_0_0to1:  63  prev_bit_1_0to1:  82  prev_bit_0_1to0:  24  prev_bit_1_1to0:  28
+THRESHOLD:  -1150  Total error:  196  0->1 error:  139  1->0 error:  57
+196
+prev_bit_0_0to1:  61  prev_bit_1_0to1:  78  prev_bit_0_1to0:  25  prev_bit_1_1to0:  32
+THRESHOLD:  -1136  Total error:  195  0->1 error:  138  1->0 error:  57
+195
+prev_bit_0_0to1:  60  prev_bit_1_0to1:  78  prev_bit_0_1to0:  25  prev_bit_1_1to0:  32
+THRESHOLD:  -1047  Total error:  194  0->1 error:  137  1->0 error:  57
+194
+prev_bit_0_0to1:  60  prev_bit_1_0to1:  77  prev_bit_0_1to0:  25  prev_bit_1_1to0:  32
+THRESHOLD:  -1045  Total error:  193  0->1 error:  136  1->0 error:  57
+193
+prev_bit_0_0to1:  59  prev_bit_1_0to1:  77  prev_bit_0_1to0:  25  prev_bit_1_1to0:  32
+THRESHOLD:  -1016  Total error:  192  0->1 error:  135  1->0 error:  57
+192
+prev_bit_0_0to1:  59  prev_bit_1_0to1:  76  prev_bit_0_1to0:  25  prev_bit_1_1to0:  32
+THRESHOLD:  -1014  Total error:  191  0->1 error:  134  1->0 error:  57
+191
+prev_bit_0_0to1:  59  prev_bit_1_0to1:  75  prev_bit_0_1to0:  25  prev_bit_1_1to0:  32
+THRESHOLD:  -973  Total error:  189  0->1 error:  132  1->0 error:  57
+189
+prev_bit_0_0to1:  59  prev_bit_1_0to1:  73  prev_bit_0_1to0:  25  prev_bit_1_1to0:  32
+THRESHOLD:  -946  Total error:  188  0->1 error:  131  1->0 error:  57
+188
+prev_bit_0_0to1:  59  prev_bit_1_0to1:  72  prev_bit_0_1to0:  25  prev_bit_1_1to0:  32
+THRESHOLD:  -940  Total error:  187  0->1 error:  130  1->0 error:  57
+187
+prev_bit_0_0to1:  59  prev_bit_1_0to1:  71  prev_bit_0_1to0:  25  prev_bit_1_1to0:  32
+THRESHOLD:  -909  Total error:  186  0->1 error:  128  1->0 error:  58
+186
+prev_bit_0_0to1:  57  prev_bit_1_0to1:  71  prev_bit_0_1to0:  26  prev_bit_1_1to0:  32
+THRESHOLD:  -848  Total error:  185  0->1 error:  126  1->0 error:  59
+185
+prev_bit_0_0to1:  56  prev_bit_1_0to1:  70  prev_bit_0_1to0:  26  prev_bit_1_1to0:  33
+THRESHOLD:  -765  Total error:  183  0->1 error:  120  1->0 error:  63
+183
+prev_bit_0_0to1:  55  prev_bit_1_0to1:  65  prev_bit_0_1to0:  27  prev_bit_1_1to0:  36
+THRESHOLD:  -747  Total error:  182  0->1 error:  117  1->0 error:  65
+182
+prev_bit_0_0to1:  55  prev_bit_1_0to1:  62  prev_bit_0_1to0:  28  prev_bit_1_1to0:  37
+THRESHOLD:  -674  Total error:  181  0->1 error:  115  1->0 error:  66
+181
+prev_bit_0_0to1:  55  prev_bit_1_0to1:  60  prev_bit_0_1to0:  29  prev_bit_1_1to0:  37
+THRESHOLD:  -621  Total error:  180  0->1 error:  110  1->0 error:  70
+180
+prev_bit_0_0to1:  52  prev_bit_1_0to1:  58  prev_bit_0_1to0:  31  prev_bit_1_1to0:  39
+THRESHOLD:  -619  Total error:  179  0->1 error:  109  1->0 error:  70
+179
+prev_bit_0_0to1:  51  prev_bit_1_0to1:  58  prev_bit_0_1to0:  31  prev_bit_1_1to0:  39
+THRESHOLD:  -488  Total error:  178  0->1 error:  106  1->0 error:  72
+178
+prev_bit_0_0to1:  51  prev_bit_1_0to1:  55  prev_bit_0_1to0:  33  prev_bit_1_1to0:  39
+THRESHOLD:  -444  Total error:  176  0->1 error:  103  1->0 error:  73
+176
+prev_bit_0_0to1:  50  prev_bit_1_0to1:  53  prev_bit_0_1to0:  33  prev_bit_1_1to0:  40
+THRESHOLD:  -442  Total error:  175  0->1 error:  102  1->0 error:  73
+175
+prev_bit_0_0to1:  49  prev_bit_1_0to1:  53  prev_bit_0_1to0:  33  prev_bit_1_1to0:  40
+THRESHOLD:  -429  Total error:  174  0->1 error:  101  1->0 error:  73
+174
+prev_bit_0_0to1:  48  prev_bit_1_0to1:  53  prev_bit_0_1to0:  33  prev_bit_1_1to0:  40
+THRESHOLD:  -428  Total error:  173  0->1 error:  100  1->0 error:  73
+173
+prev_bit_0_0to1:  47  prev_bit_1_0to1:  53  prev_bit_0_1to0:  33  prev_bit_1_1to0:  40
+THRESHOLD:  -411  Total error:  172  0->1 error:  99  1->0 error:  73
+172
+prev_bit_0_0to1:  46  prev_bit_1_0to1:  53  prev_bit_0_1to0:  33  prev_bit_1_1to0:  40
+THRESHOLD:  -393  Total error:  171  0->1 error:  98  1->0 error:  73
+171
+prev_bit_0_0to1:  45  prev_bit_1_0to1:  53  prev_bit_0_1to0:  33  prev_bit_1_1to0:  40
+THRESHOLD:  -387  Total error:  170  0->1 error:  97  1->0 error:  73
+170
+prev_bit_0_0to1:  45  prev_bit_1_0to1:  52  prev_bit_0_1to0:  33  prev_bit_1_1to0:  40
+THRESHOLD:  -309  Total error:  169  0->1 error:  95  1->0 error:  74
+169
+prev_bit_0_0to1:  45  prev_bit_1_0to1:  50  prev_bit_0_1to0:  33  prev_bit_1_1to0:  41
+THRESHOLD:  -69  Total error:  168  0->1 error:  85  1->0 error:  83
+168
+prev_bit_0_0to1:  43  prev_bit_1_0to1:  42  prev_bit_0_1to0:  37  prev_bit_1_1to0:  46
+THRESHOLD:  -33  Total error:  167  0->1 error:  83  1->0 error:  84
+167
+prev_bit_0_0to1:  42  prev_bit_1_0to1:  41  prev_bit_0_1to0:  37  prev_bit_1_1to0:  47
